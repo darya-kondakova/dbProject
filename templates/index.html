@@ -1,0 +1,158 @@
+{% extends 'base.html' %}
+
+{% block title %}Main page{% endblock %}
+
+
+
+{% block form %}
+    <script type='text/javascript' src='http://code.jquery.com/jquery-latest.min.js'></script>
+    <form {% url 'home' %} method="get">
+
+        <label for="last_name" class="form-label">Last Name</label>
+        <input type="text" class="form-control ntSaveForms" name="last_name" id="last_name">
+
+        <label for="middle_name" class="form-label">Middle Name</label>
+        <input type="text" class="form-control ntSaveForms" name="middle_name" id="middle_name">
+
+        <label for="first_name" class="form-label">First Name</label>
+        <input type="text" class="form-control ntSaveForms" name="first_name" id="first_name">
+
+        <label for="year_of_degree" class="form-label">Year Of Degree</label>
+        <input type="number" class="form-control ntSaveForms" name="year_of_degree" id="year_of_degree">
+
+        <label for="university" class="form-label">University</label>
+        <input type="text" class="form-control ntSaveForms" name="university" id="university">
+
+        <label for="country" class="form-label">Country</label>
+        <input type="text" class="form-control ntSaveForms" name="country" id="country">
+
+        <label for="math_subject_class" class="form-label">Math Subject Class</label>
+        <select class="form-control ntSaveForms" name="math_subject_class" id="math_subject_class">
+            <option value=""></option>
+            <option value="00">00 General</option>
+            <option value="01">01 History and biography</option>
+            <option value="03">03 Mathematical logic and foundations</option>
+            <option value="05">05 Combinatorics</option>
+            <option value="06">06 Order, lattices, ordered algebraic structures</option>
+            <option value="08">08 General algebraic systems</option>
+            <option value="11">11 Number theory</option>
+            <option value="12">12 Field theory and polynomials</option>
+            <option value="13">13 Commutative rings and algebras</option>
+            <option value="14">14 Algebraic geometry</option>
+            <option value="15">15 Linear and multilinear algebra; matrix theory</option>
+            <option value="16">16 Associative rings and algebras</option>
+            <option value="17">17 Nonassociative rings and algebras</option>
+            <option value="18">18 Category theory, homological algebra</option>
+            <option value="19">19 K-theory</option>
+            <option value="20">20 Group theory and generalizations</option>
+            <option value="22">22 Topological groups, Lie groups</option>
+            <option value="26">26 Real functions</option>
+            <option value="28">28 Measure and integration</option>
+            <option value="30">30 Functions of a complex variable</option>
+            <option value="31">31 Potential theory</option>
+            <option value="32">32 Several complex variables and analytic spaces</option>
+            <option value="33">33 Special functions</option>
+            <option value="34">34 Ordinary differential equations</option>
+            <option value="35">35 Partial differential equations</option>
+            <option value="37">37 Dynamical systems and ergodic theory</option>
+            <option value="39">39 Finite differences and functional equations</option>
+            <option value="40">40 Sequences, series, summability</option>
+            <option value="41">41 Approximations and expansions</option>
+            <option value="42">42 Fourier analysis</option>
+            <option value="43">43 Abstract harmonic analysis</option>
+            <option value="44">44 Integral transforms, operational calculus</option>
+            <option value="45">45 Integral equations</option>
+            <option value="46">46 Functional analysis</option>
+            <option value="47">47 Operator theory</option>
+            <option value="49">49 Calculus of variations and optimal control</option>
+            <option value="51">51 Geometry</option>
+            <option value="52">52 Convex and discrete geometry</option>
+            <option value="53">53 Differential geometry</option>
+            <option value="54">54 General topology</option>
+            <option value="55">55 Algebraic topology</option>
+            <option value="57">57 Manifolds and cell complexes</option>
+            <option value="58">58 Global analysis, analysis on manifolds</option>
+            <option value="60">60 Probability theory and stochastic processes</option>
+            <option value="62">62 Statistics</option>
+            <option value="65">65 Numerical analysis</option>
+            <option value="68">68 Computer science</option>
+            <option value="70">70 Mechanics of particles and systems</option>
+            <option value="74">74 Mechanics of deformable solids</option>
+            <option value="76">76 Fluid mechanics</option>
+            <option value="78">78 Optics, electromagnetic theory</option>
+            <option value="80">80 Classical thermodynamics, heat transfer</option>
+            <option value="81">81 Quantum Theory</option>
+            <option value="82">82 Statistical mechanics, structure of matter</option>
+            <option value="83">83 Relativity and gravitational theory</option>
+            <option value="85">85 Astronomy and astrophysics</option>
+            <option value="86">86 Geophysics</option>
+            <option value="90">90 Operations research, mathematical programming</option>
+            <option value="91">91 Game theory, economics, social and behavioral sciences</option>
+            <option value="92">92 Biology and other natural sciences</option>
+            <option value="93">93 Systems theory; control</option>
+            <option value="94">94 Information and communication, circuits</option>
+            <option value="97">97 Mathematics education</option>
+        </select>
+
+        <div class="btn-group">
+            <button type="submit" class="btn btn-outline-success ntSaveFormsSubmit">Search</button>
+            <button type="button" class="btn btn-outline-danger" value="reset" onClick="this.form.reset()">Reset
+            </button>
+        </div>
+        <a type="button" class="btn btn-outline-warning margin-left-22" href="{% url 'add' %}">Add &rarr;</a>
+    </form>
+
+
+    {% if request.user.is_authenticated %}
+        <span class="navbar-text" style="left: 41%">
+            <a href="{% url 'sign-out' %}" style="color: black">Sign out</a>
+        </span>
+    {% else %}
+        <span class="navbar-text">
+            <a href="{% url 'sign-up' %}" style="color: black">Sign up</a> | <a href="{% url 'sign-in' %}"
+                                                                                style="color: black">Sign in</a>
+        </span>
+    {% endif %}
+
+
+    <script type='text/javascript' src='../static/js/ntsaveforms.js'></script>
+{% endblock %}
+
+{% block content %}
+
+    {% for math in maths %}
+        <div><p><a href="{{ math.get_absolute_url }}">
+            {{ math.last_name }} {{ math.first_name }}
+            {% if math.middle_mane is not None %}{{ math.middle_mane }}{% endif %}
+        </a></p></div>
+    {% endfor %}
+
+    <ul class="pagination justify-content-end">
+        {% if page_obj.has_previous %}
+            <li class="page-item"><a class="page-link" href="?page=1">&laquo; first</a></li>
+            <li class="page-item"><a class="page-link" href="?page={{ page_obj.previous_page_number }}">previous</a>
+            </li>
+        {% else %}
+            <li class="page-item disabled"><a class="page-link" href="#" aria-disabled="true" tabindex="-1">&laquo;
+                first</a></li>
+            <li class="page-item disabled"><a class="page-link" href="#" aria-disabled="true" tabindex="-1">previous</a>
+            </li>
+        {% endif %}
+
+
+        <li class="page-item disabled"><a class="page-link" href="#">
+            Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}
+        </a></li>
+
+
+        {% if page_obj.has_next %}
+            <li class="page-item"><a class="page-link" href="?page={{ page_obj.next_page_number }}">next</a></li>
+            <li class="page-item"><a class="page-link" href="?page={{ page_obj.paginator.num_pages }}">last &raquo;</a>
+            </li>
+        {% else %}
+            <li class="page-item disabled"><a class="page-link" href="#" aria-disabled="true">next</a></li>
+            <li class="page-item disabled"><a class="page-link" href="#" aria-disabled="true">last &raquo;</a></li>
+        {% endif %}
+    </ul>
+
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+
+{% block title %}Add{% endblock %}
+
+{% block form %}
+    <form method="post">
+    {% csrf_token %}
+
+    <label for="{{ form.last_name.id_for_label }}" class="form-label">Last Name</label>
+        {{form.last_name}}
+
+    <label for="{{ form.middle_name.id_for_label }}" class="form-label">Middle Name</label>
+        {{form.middle_mane}}
+
+    <label for="{{ form.first_name.id_for_label }}" class="form-label">First Name</label>
+        {{form.first_name}}
+
+    <label for="{{ form.year_of_degree.id_for_label|date:"Y" }}" class="form-label">Year Of Degree</label>
+        {{form.year_of_degree}}
+
+    <label for="{{ form.university.id_for_label }}" class="form-label">University</label>
+        {{form.university_id}}
+
+    <label for="{{ form.country_id.id_for_label }}" class="form-label">Country</label>
+        {{form.country_id}}
+
+    <label for="{{ form.math_subject_class.id_for_label }}" class="form-label">Math Subject Class</label>
+        {{form.math_subject_class_id}}
+
+    <div class="btn-group" >
+                <button type="submit" class="btn btn-outline-success">Add</button>
+                <button type="button" class="btn btn-outline-danger" value="reset" onClick="this.form.reset()">Reset</button>
+    </div>
+        <a type="button" class="btn btn-outline-warning margin-left-22"  href="{% url 'home' %}">Search &rarr;</a>
+    </form>
+{% endblock %}
+
+
+{% block content %}
+
+{% endblock %}

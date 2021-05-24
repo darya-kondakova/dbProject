@@ -1,0 +1,19 @@
+{% extends 'base_view.html' %}
+
+{% block title %}Delete {{ object.last_name }} {{ object.first_name }} {% if object.middle_mane is not None %}{{ object.middle_mane }}{% endif %}{% endblock %}
+
+{% block content %}
+
+   <h4>Are you sure you want to delete "{{ object.last_name }} {{ object.first_name }}" mathematician?<br>
+   All of the following related objects will also be removed.</h4><br>
+
+    <form method="post">
+    {% csrf_token %}
+    <div class="btn-group {% comment %}fixed-button left{% endcomment %}" >
+                <button type="submit" class="btn btn-outline-danger">Yes, I'm sure</button>
+                <a type="button" class="btn btn-outline-secondary" href="{% url 'math' object.id %}">No, undo and go back</a>
+    </div>
+    </form>
+
+
+{% endblock %}

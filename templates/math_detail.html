@@ -1,0 +1,53 @@
+{% extends 'base_view.html' %}
+
+
+{% block title %}{{ object.last_name }} {{ object.first_name }} {% if object.middle_mane is not None %}{{ object.middle_mane }}{% endif %}{% endblock %}
+
+{% block content %}
+
+    <h3>{{ object.last_name }} {{ object.first_name }} {% if object.middle_mane is not None %}{{ object.middle_mane }}{% endif %}</h3>
+    <h4>{{ object.university_id }} {{ object.year_of_degree }} {{ object.country_id }}</h4>
+
+    <div>
+    <p>
+        {% if advisors.count == 0 %}
+            <h5>No advisors known.</h5>
+        {% elif advisors.count == 1 %}
+            <h5>Advisor:</h5>
+        {% else %}
+            <h5>Advisors:</h5>
+        {% endif %}
+        {% for advisor in advisors %}
+            <a href="{{ advisor.advisor.get_absolute_url }}">
+                {{ advisor.advisor.last_name }} {{ advisor.advisor.first_name }} {% if advisor.advisor.middle_mane is not None %}{{ advisor.advisor.middle_mane }}{% endif %}
+                </a><br>
+        {% endfor %}
+    </p>
+    </div>
+
+
+    <div><p>
+    {% if students.count == 0 %}
+        <h5>No students known.</h5>
+    {% elif students.count == 1 %}
+        <h5>Student:</h5>
+    {% else %}
+        <h5>Students:</h5>
+    {% endif %}
+    {% for student in students %}
+        <a href="{{ student.student.get_absolute_url }}">
+            {{ student.student.last_name }} {{ student.student.first_name }} {% if student.student.middle_mane is not None %}{{ student.student.middle_mane }}{% endif %}
+            </a><br>
+    {% endfor %}
+    </p>
+    </div>
+
+    <div class="btn-group {% comment %}fixed-button left{% endcomment %}" >
+                <a type="button" class="btn btn-outline-success" href="{% url 'update' object.id %}">Update</a>
+                <a type="button" class="btn btn-outline-danger" href="{% url 'delete' object.id %}">Delete</a>
+                <a type="button" class="btn btn-outline-secondary" href="{% url 'home' %}">Main page</a>
+    </div>
+
+
+
+{% endblock %}

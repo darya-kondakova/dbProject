@@ -1,0 +1,1018 @@
+id,Name,Univ,Year,Country,Title,Advisor,Students
+94678,Vladimir Nikolaevich Potapov,Novosibirsk State University,1997,Russia,,['56754'],['269713']
+56754,Rafail Evseevich Krichevskii,"Sobolev Institute of Mathematics, Novosibirsk",1963,Russia,Lower bounds of the complexity for the realization of functions by superpositions,"['55572', '56760']",['94678']
+269713,Anna Aleksandrovna Taranenko,"Sobolev Institute of Mathematics, Novosibirsk",2017,Russia,Permanents of multidimensional matrices in problems of discrete mathematics,['94678'],[]
+55572,Aleksei Andreevich Lyapunov,Steklov Institute of Mathematics,1939,Russia,,"['10479', '55513']","['55746', '56751', '56750', '56749', '56748', '56758', '141979', '56753', '56754', '56756', '56752', '56759', '56761', '56760', '56757']"
+56760,Sergei Vsevoldovich Yablonskii,Lomonosov Moscow State University,1953,Russia,On the Functional Completeness in k-Valued Calculus,"['55513', '55572']","['180637', '113863', '56754', '56752', '168397', '187473', '181007', '168227']"
+10479,Nikolai Nikolayevich Luzin,Lomonosov Moscow State University,1915,Russia,The Integral and Trigonometric Series,['24109'],"['24408', '36443', '90373', '108322', '108323', '36445', '56857', '10480', '76948', '36441', '59649', '55572', '24407', '55513', '207833', '36444', '6528', '36446']"
+55513,Petr Sergeevich Novikov,,,None,,['10479'],"['93533', '69996', '168307', '55572', '113668', '76166', '132047', '56760']"
+55746,Vladimir Ilyich Amstislavskii,Novosibirsk State University,1968,Russia,,['55572'],[]
+56751,Vasilii Yakovlevich Arsenin,,,None,,['55572'],['99294']
+56750,Galina Pavlovna Bagrinovskaya,,,None,,['55572'],[]
+56749,Nikolai Panteleimonovich Buslenko,,,None,,['55572'],['120975']
+56748,Andrei Petrovich Ershov,Russian Academy of Sciences Siberian Branch,1961,Russia,Операторные алгорифмы (Operational algorithms),['55572'],['224104']
+56758,Gennadii Shmerel'evich Fridman,,,None,,['55572'],[]
+141979,Tatiana Leonidovna Gavrilova,Lomonosov Moscow State University,1973,Russia,Grammar Graph Construction On The Base of the Analysed finite Text,['55572'],[]
+56753,Georgii Petrovich Karev,,,None,,['55572'],[]
+56756,Olga Sergeevna Kulagina,,,None,,['55572'],[]
+56752,Oleg Borisovich Lupanov,Lomonosov Moscow State University,1958,Russia,On Synthesis of Contact Circuits,"['55572', '56760']","['120301', '52859', '180636']"
+56759,Rimma Ivanovna Podlovchenko,,,None,,['55572'],[]
+56761,Yuriy Leonidovich Vasil'ev,,,None,,['55572'],['151179']
+56757,Yuri Ivanovich Zhuravlev,Lomonosov Moscow State University,1960,Russia,Algorithms for simplification of disjunctive normal forms,['55572'],"['162969', '185618', '248960', '170436', '79755', '199570']"
+180637,Valeri Borisovich Alekseev,Lomonosov Moscow State University,1972,Russia,On simple bases of k-valued logic,['56760'],['232530']
+113863,Garii Petrovich Gavrilov,Lomonosov Moscow State University,,Russia,,['56760'],"['113876', '155133']"
+168397,Sergei Serafimovich Marchenkov,Lomonosov Moscow State University,1971,Russia,Semistructures of Computable Numerations,['56760'],[]
+187473,Dmitry Sergeevich Romanov,Lomonosov Moscow State University,2000,Russia,"Construction of tests and estimation of their parameters for some classes
+of contact circuits","['56760', '180636']",[]
+181007,Vyacheslav Vladimirovich Tarasov,,,None,The completeness problems of functional systems from unreliable elements,['56760'],['196562']
+168227,Vladimir A. Zakharov,Lomonosov Moscow State University,1987,Russia,Automaton models of Turing machines,['56760'],"['186522', '168344']"
+24109,Dimitri Fedorowitsch Egorov,Lomonosov Moscow State University,1901,Russia,Concerning One Class of Orthogonal Systems,['24101'],"['24408', '36438', '36439', '36436', '107369', '10479', '24407', '55146', '36435', '36437', '24107', '24105']"
+24408,Pavel Sergeevich Aleksandrov,Lomonosov Moscow State University,1927,Russia,,"['24109', '10479']","['106696', '72761', '106614', '63492', '74400', '106990', '106672', '138306', '104236', '106673', '111731', '53008', '110079', '89269', '108599', '108600', '31014', '104032', '106674', '92845', '106697', '92360', '49073', '106296', '106698', '106675', '86715', '106671', '43962', '107025', '106676', '96286', '106295', '108380', '93970', '108166', '58042', '94400', '169505', '106615', '110080']"
+36443,Nina Karlovna Bari,Lomonosov Moscow State University,1926,Russia,,['10479'],"['127692', '127693', '127694', '127695', '110085']"
+90373,Vera S. Bogomolova,Lomonosov Moscow State University,,Russia,On a Property of Everywhere Asymptotically Continuous Functions,['10479'],[]
+108322,Vladimir Semenovich Fedorov,Lomonosov Moscow State University,1935,Russia,,['10479'],['137140']
+108323,Valerii Ivanovich Glivenko,Lomonosov Moscow State University,1938,Russia,,['10479'],['113382']
+36445,Lyudmila Vsevolodovna Keldysh,Lomonosov Moscow State University,,Russia,,['10479'],"['95090', '126759', '126760', '126761', '126762', '126763', '126764', '98148', '126765', '98449']"
+56857,Aleksandr Yakovlevich Khinchin,Lomonosov Moscow State University,,Russia,,['10479'],"['29696', '56858', '17513', '107048']"
+10480,Andrei Nikolayevich Kolmogorov,Lomonosov Moscow State University,1925,Russia,,['10479'],"['17490', '87137', '17491', '17492', '17493', '83475', '17494', '89436', '17496', '108206', '17497', '17495', '87689', '17498', '17499', '17501', '17502', '17500', '17503', '17504', '17505', '17506', '17507', '17508', '17509', '87888', '17510', '17511', '17512', '45649', '17513', '17514', '65170', '17515', '17516', '17517', '149310', '49527', '17518', '17519', '17520', '20640', '17522', '17523', '17524', '17525', '17526', '17527', '91201', '17528', '17529', '17530', '17531', '17532', '17533', '17534', '17535', '17536', '17537', '17538', '17539', '101891', '17541', '17542', '10481', '17543', '139910', '17544', '17545', '17546', '108207', '17547', '17548', '36114', '17549', '169622', '17550', '17551', '44121', '17552', '17554', '17553']"
+76948,Aleksandr Semenovich Kronrod,,,None,,['10479'],"['76951', '95616']"
+36441,Mikhail Alekseevich Lavrentjev,Lomonosov Moscow State University,1933,Russia,,['10479'],"['110378', '106157', '127720', '118925', '79963', '111364', '52129', '100732', '102065', '110379', '78688']"
+59649,Lazar Aronovich Lusternik,Lomonosov Moscow State University,1926,Russia,Direct Methods of Calculus of Variations,['10479'],"['173401', '98671', '153131', '107968', '138306', '29674', '119658', '153115', '93646', '120974', '63841', '153114', '92502', '74403', '85029', '105528', '106000', '156822', '62885', '158637']"
+24407,Dmitrii Evgenevich Menshov,Lomonosov Moscow State University,1916,Russia,The Riemann theory of trigonometric series,"['24109', '10479']","['140947', '110377', '110376', '110557', '110319', '110375', '142293', '100281', '93240', '110558', '66409', '110374', '110559', '99503']"
+207833,Boris Nikolaevich  Petrov,All-Russian Scientific Research Institute of Automation (VNIIA),1945,Russia,Analysis of Automatic Duplicating Systems,['10479'],"['211328', '212558']"
+36444,Lev Genrikhovich Shnirelman,Lomonosov Moscow State University,,Russia,,['10479'],['113320']
+6528,Mikhail Yakovlevich Souslin,Lomonosov Moscow State University,,Russia,,['10479'],[]
+36446,Pavel Samuilovich Urysohn,Lomonosov Moscow State University,1921,Russia,,['10479'],[]
+93533,Sergei Ivanovich Adian,,,None,,['55513'],"['138748', '93538', '83476', '168223', '159987', '168222', '168563', '164083', '108275', '163916', '166454', '164081', '163915', '168224', '163823', '168633']"
+69996,Valeriy Konstantinovich Bulitko,Moscow State Pedagogical Institute,1973,Russia,Some Algorithmic Problems in Graph Theory,['55513'],[]
+168307,Aleksandr Vladimirovich Kuznetsov,Lomonosov Moscow State University,1965,Russia,Recursive Functions and Undecidability of Some Problems for Propositional Calculi,"['98102', '55513']","['168599', '168596', '168598', '168600', '168602', '168728', '168601']"
+113668,Albert Abramovich Muchnik,Moscow State Pedagogical Institute,1959,Russia,Solution to the Post Reducibility Problem,['55513'],['67335']
+76166,Asan Dabsovich Taimanov,Lomonosov Moscow State University,1947,Russia,On Quasicomponents of Non-Connected Sets,['55513'],"['76175', '77171', '76173', '76180', '76182', '76181', '76176', '76177', '76174', '76184', '76178', '76179', '76183', '77172']"
+132047,Boris A. Trakhtenbrot,"Institute of Mathematics, Ukrainian Academy of Science",1950,Ukraine,Decidability Problems for Finite Classes and Deﬁnitions of Finite Sets,['55513'],"['127576', '192699', '270383', '237226']"
+99294,Alexandre  Timonov,Keldysh Institute of Applied Mathematics,1984,Russia,Regularizing Algorithms For The Approximate Solution of Operator Equations and Applications to Computer Tomography,['56751'],[]
+120975,Vladimir Vasil'evich Rykov,"Central Economics and Mathematics Institute, Russian Academy of Science",1966,Russia,On controllable queueing systems,"['120974', '56749']",['153895']
+224104,Alexander  Narin'yani,Computing Center of Siberian Branch of The Russian Academy of Science,1972,Russia,Acинхронные вычислительные процессы над общей памятью (Asynchronous computation over shared memory),['56748'],[]
+120301,Dmitriy Yuryevich Cherukhin,Lomonosov Moscow State University,2000,Russia,Comparison of Bases in the Implementation of Boolean Functions by Formulas,['56752'],[]
+52859,Valeriy Borisovich Kudryavtsev,,,Germany,,"['56752', '37688']","['245823', '59086']"
+180636,Sergei Andreevich Lozhkin,Lomonosov Moscow State University,1979,Russia,Realization of Boolean functions by schemes of functional elements with delays,['56752'],"['181071', '187473', '187628']"
+151179,Denis S. Krotov,"Sobolev Institute of Mathematics, Novosibirsk",2000,Russia,Constructions of Close Packed Codes And Lower Bounds Oh Their Number,['56761'],[]
+162969,Levon  Aslanyan,,,None,Logic-Combinatorial Problems of Discrete Modelling: Pattern Recognition Systems,['56757'],[]
+185618,Alexander A. Ivanov,Moscow Institute of Physics and Technology,1984,Russia,"Combinatorial and Algebraic Methods for Investigation of Distance-Regular
+Graphs","['56757', '88992']","['185617', '196215', '224238', '239430']"
+248960,Khairzhan Zhusubek-uli  Munkin,Dorodnitsyn Computing Centre,1989,Russia,,['56757'],[]
+170436,Konstantin Vladimirovich Rudakov,Moscow Institute of Physics and Technology,1981,Russia,On certain classes of pattern recognition algorithms,['56757'],"['170967', '170966']"
+79755,Alexander Antonovich Sapozhenko,Novosibirsk State University,1967,Russia,Geometric Properties of Boolean functions,['56757'],"['79753', '139382', '130204']"
+199570,Ventzeslav  Valev,Institute for System Programming of the Russian Academy of Sciences,1979,Russia,Multidimensional Pattern Recognition Problems,['56757'],[]
+232530,Vladimir Vladimirovich Lysikov,Lomonosov Moscow State University,2014,Russia,Some problems in the complexity theory of bilinear maps,['180637'],[]
+113876,Serge  Lawrencenko,Lomonosov Moscow State University,1990,Russia,Treatise of Triangular Embeddings of a Graph in a Surface,['113863'],[]
+155133,Irina Grigorjevna Perfilieva,Lomonosov Moscow State University,1980,Russia,Functional Completeness in Countable-valued Logic,['113863'],"['230315', '230093', '230314', '230316', '230328']"
+196562,Victoria Alexandrovna Sablina,Ryazan State Radio Engineering University,2009,Russia,The Development and the Investigation of Image Restoration Algorithms by the Sequency Theory Methods,"['196563', '99292', '181007']",[]
+186522,Egor  Kostylev,Lomonosov Moscow State University,2008,Russia,"Unification algorithms and their application to the computation of program
+invariants",['168227'],[]
+168344,Alexander  Okhotin,Lomonosov Moscow State University,2002,Russia,Complexity issues in the analysis of conjunctive grammars,"['168227', '20527']","['196852', '168437', '176368']"
+24101,Nicolai Vasilievich Bugaev,Lomonosov Moscow State University,1866,Russia,Number Identities Connected with Properties of the Symbol E,"['7486', '18331', '55185']","['24109', '146096', '24108']"
+36438,Sergei Sergeevich Byushgens,Lomonosov Moscow State University,1908,Russia,,['24109'],[]
+36439,Sergei P. Finikov,Lomonosov Moscow State University,,Russia,,['24109'],"['98931', '89233', '61016', '89234', '98358', '102548', '179351']"
+36436,Vladimir Vasilievich Golubev,Lomonosov Moscow State University,,Russia,,['24109'],"['104676', '104487', '104673', '104675']"
+107369,Archil Kirillovich Kharadze,Lomonosov Moscow State University,,Russia,,['24109'],[]
+55146,Ivan Georgievich Petrovsky,Lomonosov Moscow State University,,Russia,,['24109'],"['92511', '107476', '165961', '55067', '54543', '76951', '97516', '98336', '55145', '98941', '93040']"
+36435,Ivan Ivanovich Privalov,Lomonosov Moscow State University,1916,Russia,,['24109'],"['98147', '176900']"
+36437,Leonid Nikolaevich Sretenskii,Lomonosov Moscow State University,1929,Russia,,['24109'],"['105328', '105359', '105329', '105330']"
+24107,Vyacheslaw Vassilievich Stepanov,Lomonosov Moscow State University,1915,Russia,,['24109'],"['106009', '169504', '56858', '31014']"
+24105,Adolph Andrei Yushkevich,Lomonosov Moscow State University,,Russia,,['24109'],"['171645', '171782', '171783', '171784', '27340', '102556', '136934', '103152', '171785', '171646']"
+106696,Isaak Genrikhovich Aramanovich,Lomonosov Moscow State University,1955,Russia,,['24408'],[]
+72761,Alexander Vladimirovich Arhangelskii,Steklov Institute of Mathematics,1962,Russia,On Metrization of Spaces and Related Problems,['24408'],"['73886', '73887', '73888', '73889', '73890', '73891', '73892', '73893', '73894', '73895', '73896', '73897', '73898', '73899', '73900', '73901', '72805', '73902', '73903', '73904', '73905', '73906', '72806', '73907', '73908', '73909', '73910', '73911', '73912', '73913', '73914', '73915', '176878', '73916', '73917', '73918', '73919']"
+106614,Meer Feliksovich Bokshtein,Kazan State University,1942,Russia,,['24408'],[]
+63492,George  Chogoshvili,Lomonosov Moscow State University,1939,Russia,On Level Surfaces and Domains of Smaller Values of a Function Defined on a Bounded Manifold,['24408'],"['80869', '80874', '80876', '63503', '80877', '80826', '80870', '80871', '80868', '80878', '80875', '80872', '80873']"
+74400,Vadim Arsenievich Efremovich,Lomonosov Moscow State University,,Russia,,['24408'],"['110548', '92942', '87622', '87621', '78339', '12690', '78338', '174571', '136265', '136264']"
+106990,Vitaly Vitalievich Fedorchuk,Lomonosov Moscow State University,"1967, 1976",Russia,Perfect Irreducible Mappings of Topological Spaces and  θ-proximities,['24408'],"['113732', '113734', '113720', '113736', '113738', '113743', '43961', '113721', '108018', '113731', '108019', '113739', '113724', '113726', '113735', '108020', '113741', '113730', '113727', '113723', '113733', '107073', '113737', '113725', '108021', '113722', '108022', '113740', '113742', '106991', '113729']"
+106672,Felix Isidorovich Frankl,Lomonosov Moscow State University,1936,Russia,,['24408'],"['170549', '244154', '171518', '171515', '170555', '170554', '170551', '170552', '170553', '171514', '170550', '171512', '171513']"
+138306,S. V. Frolov,Lomonosov Moscow State University,,Russia,,"['24408', '59649']",[]
+104236,Vladimir Leonidovich Klushev,Lomonosov Moscow State University,1966,Russia,,['24408'],[]
+106673,Mikhail Aleksandrovich Kreines,Lomonosov Moscow State University,1944,Russia,,['24408'],[]
+111731,Lev Dmitrievich Kudryavtsev,Lomonosov Moscow State University,1948,Russia,On Groups Betti of Topological Spaces,['24408'],['148486']
+53008,Aleksandr Gennadievich Kurosh,Lomonosov Moscow State University,1936,Russia,Research on Infinite Groups,['24408'],"['106613', '151954', '134414', '95532', '55501', '183077', '53007', '62201', '131714', '146729', '122129', '129907', '130479', '179777', '134617', '165868', '799', '139239', '110081', '180498', '13726', '107236', '114762', '212586', '134046', '116431', '104251', '106302']"
+110079,Oleg Vyacheslavovich Lokutsievskii,Lomonosov Moscow State University,,Russia,,['24408'],[]
+89269,Algirdas  Matuzevicius,Lomonosov Moscow State University,1957,Russia,Sections of Double Bundles,"['24408', '6355']",[]
+108599,Evgenii Frolovich Mishchenko,Lomonosov Moscow State University,1953,Russia,,"['24408', '49073']","['146875', '108665']"
+108600,Leonid Yakovlevich Neishuler,Lomonosov Moscow State University,1954,Russia,,['24408'],[]
+31014,Viktor Vladimirovich Nemytskii,,,None,,"['24408', '24107']","['257295', '99285', '134969', '134047', '99460', '99286', '14236', '139737', '135835', '101292', '134970', '135637', '134971', '134048', '11678', '136933']"
+104032,Alexey Vladimirovich Ostrovsky,Lomonosov Moscow State University,1976,Russia,,['24408'],[]
+106674,Alexei Serapionovich Parkhomenko,Lomonosov Moscow State University,1938,Russia,Über eineindeutige stetige Abbildungen,['24408'],[]
+92845,Boris Alekseevich Pasynkov,Lomonosov Moscow State University,1965,Russia,,['24408'],[]
+106697,Aleksandr Iosifovich Polak,Lomonosov Moscow State University,1938,Russia,,['24408'],[]
+92360,Vladimir Ivanovich Ponomarev,Lomonosov Moscow State University,,Russia,,['24408'],[]
+49073,Lev Semenovich Pontryagin,Lomonosov Moscow State University,1935,Russia,,['24408'],"['17410', '6355', '267432', '36427', '108599', '62887', '102190']"
+106296,Igor Aleksandrovich Proskuryakov,Lomonosov Moscow State University,1938,Russia,,['24408'],[]
+106698,Irina Leonidovna Raukhvarger,Lomonosov Moscow State University,1949,Russia,,['24408'],[]
+106675,Yuliya Antonovna Rozhanskaya,Lomonosov Moscow State University,1935,Russia,,['24408'],[]
+86715,Sergey Sergeevich Ryshkov,Lomonosov Moscow State University,,Russia,Topology in Hilbert Spaces,['24408'],"['107585', '88567', '88565', '88569', '88568', '67831', '88566']"
+106671,Nikolai Aleksandrovich Shanin,Steklov Institute of Mathematics,1942,Russia,On Extensions of Topological Spaces,"['24408', '13982']","['133485', '131769', '133484', '79318', '133434', '132881', '132773', '118366', '134212', '41889', '41873', '133428', '41775', '132772', '134184', '85166', '133482', '132955', '132774']"
+43962,Eugine Vitalievich Shchepin,Lomonosov Moscow State University,,Russia,,['24408'],"['43961', '184926']"
+107025,Vladimir Evgenievich Shneider,Lomonosov Moscow State University,1941,Russia,,['24408'],[]
+106676,Mikhail Romanovich Shura-Bura,Lomonosov Moscow State University,1954,Russia,,['24408'],"['136735', '150311', '135938']"
+96286,Igor Aleksandrovich Shvedov,Steklov Institute of Mathematics,1961,Russia,Projective Spetrums,['24408'],[]
+106295,Kirill Aleksandrovich Sitnikov,Lomonosov Moscow State University,1955,Russia,,['24408'],"['108397', '110682', '108396']"
+108380,E. E. Skurichin,Steklov Institute of Mathematics,,Russia,,['24408'],[]
+93970,Yuriĭ Mikhaĭlovich Smirnov,Lomonosov Moscow State University,,Russia,,['24408'],"['127937', '127677', '136358', '97912', '96297', '135981', '83278', '97806', '97913', '97911']"
+108166,Petru S. Soltan,Lomonosov Moscow State University,1959,Russia,Dimension of Inverse Images in the Mapping of Compacta into Polyhedra,['24408'],['108187']
+58042,Andrei Nikolaevich Tikhonov,Lomonosov Moscow State University,1927,Russia,,['24408'],"['108631', '96539', '98276', '98276', '69118', '98683', '173091', '31066', '63886', '17030', '91057', '29460']"
+94400,Lev Abramovich Tumarkin,Lomonosov Moscow State University,,Russia,,['24408'],[]
+169505,Isaak Aronovich Vainshtein,Lomonosov Moscow State University,1946,Russia,On Closed Maps of Metric Spaces,['24408'],[]
+106615,Nikolai Borisovich Vedenisov,Lomonosov Moscow State University,1937,Russia,,['24408'],[]
+110080,Victor Ivanovich Zaitsev,Lomonosov Moscow State University,,Russia,,['24408'],[]
+127692,Rafail Samoilovich Guter,Lomonosov Moscow State University,1948,Russia,,['36443'],[]
+127693,Zoya Nikolaevna Kazhdan,Lomonosov Moscow State University,1954,Russia,,['36443'],[]
+127694,Yurii Aleksandrovich Kazmin,Lomonosov Moscow State University,,Russia,,['36443'],[]
+127695,Klara Volfovna Temko,Lomonosov Moscow State University,1956,Russia,,['36443'],[]
+110085,Petr Lavrentʹevich Ul'yanov,Lomonosov Moscow State University,1953,Russia,,['36443'],"['130939', '187479', '130940', '112127', '142414', '112128', '103090', '130941', '24269', '129812']"
+137140,Klara Davidovna Zatulovskaya,Moscow State Pedagogical Institute,1964,Russia,,['108322'],[]
+113382,Victor Ivanovich Shestakov,Lomonosov Moscow State University,1939,Russia,,['108323'],[]
+95090,Alexey Viktorovich Chernavsky,,,None,"Гомеоморфизмы и вложения топологических многообразий
+ (Homeomorphisms and imbeddings of topological manifolds)",['36445'],"['56803', '171598', '98294']"
+126759,M. Sh. Farber,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+126760,V. P. Kompaniets,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+126761,Van Ni Kyong,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+126762,R. Yu. Matskina,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+126763,Sergey Vladimirovich Matveev,Steklov Institute of Mathematics,1973,Russia,,['36445'],[]
+126764,E. V. Sandrakova,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+98148,Mikhail Anatolievich Shtan'ko,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+126765,V. V. Solodov,Steklov Institute of Mathematics,,Russia,,['36445'],[]
+98449,Aleksey Bronislavovich Sosinskii,Lomonosov Moscow State University,1967,Russia,,['36445'],['76407']
+29696,Aleksandr Adolfovich Buchstab,Lomonosov Moscow State University,1939,Russia,,['56857'],"['33517', '23172']"
+56858,Aleksandr Osipovich Gelfond,Lomonosov Moscow State University,1935,Russia,,"['56857', '24107']","['104563', '91331', '25852', '33517', '189474', '56877', '153092', '85950', '56878', '80179', '97759', '99477', '93308']"
+17513,Boris Vladimirovich Gnedenko,Lomonosov Moscow State University,1937,Russia,On some results in the theory of infinitely divisible distributions,"['10480', '56857']","['154469', '30960', '29838', '138976', '61527', '95100', '156581', '135941', '190692', '101282', '129129', '58687', '85069', '122637']"
+107048,Dmitrii Abramovich Raikov,Lomonosov Moscow State University,1941,Russia,,['56857'],"['119662', '119669', '140073', '119663', '55889', '118978', '119664', '119665', '118979', '118977', '188873', '119666', '119667', '59714', '119668']"
+17490,Aleksandr Mikhailovich Abramov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+87137,Serguei  Aivazian,Steklov Institute of Mathematics,1967,Russia,,['10480'],['87139']
+17491,Vladimir Mikhailovich Alekseev,Lomonosov Moscow State University,,Russia,,['10480'],"['131078', '263179', '191595', '64569', '45186']"
+17492,A. M. Arato,Lomonosov Moscow State University,,Russia,,['10480'],['111782']
+17493,Vladimir Igorevich Arnold,Lomonosov Moscow State University,1961,Russia,On The Representation of Continuous Functions of 3 Variables By The Superpositions of Continuous Functions of 2 Variables,['10480'],"['172423', '104955', '87689', '149090', '79232', '95098', '172420', '52911', '170625', '172422', '118189', '172059', '58475', '32851', '91181', '55263', '88314', '76407', '171955', '91904', '49054', '56743', '171953', '206519', '171956', '59395', '172421', '49058', '172060', '172600', '131931', '176393', '53194', '172061', '99437', '79306', '172062', '79278', '20563', '61343', '79277', '54809', '38499', '96967', '103447']"
+83475,Sergei Nikolayevich Artemov,Lomonosov Moscow State University,1980,Russia,Extensions of Arithmetic and Modal Logics,"['49528', '13982', '10480']","['193173', '170545', '93538', '95820', '30452', '162721', '83476', '126964', '115651', '97268', '163400', '118629', '30454', '73590', '138291', '49551', '95816', '226438', '203282', '121285', '95817', '89432', '83478', '201246', '162768', '95818', '95819', '183076', '95800']"
+17494,Eugene A. Asarin,Lomonosov Moscow State University,1988,Russia,Individual random Signals: an approach based on complexity,['10480'],"['180334', '53484']"
+89436,Nikolai Sergeevich Bakhvalov,Lomonosov Moscow State University,1958,Russia,On Constructing Equations in Finite Differences in Solving Approximately the Laplace Equation,"['10480', '54547']","['116542', '89442', '70992', '170350']"
+17496,Grigory Isaakovich Barenblatt,Lomonosov Moscow State University,1953,Russia,On the Motion of Suspended Particles in a Turbulent Flow,"['10480', '99630']","['104422', '79511', '238964', '94645', '223790', '113478', '92179', '94677']"
+108206,Akakii Konstantinovich Barkalaya,Lomonosov Moscow State University,1937,Russia,,['10480'],[]
+17497,Leonid Alexandrovich Bassalygo,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17495,G. M. Bavli,Lomonosov Moscow State University,,Russia,,['10480'],[]
+87689,Eduard Grigorievich Belaga,Lomonosov Moscow State University,1965,Russia,,"['17493', '10480']",[]
+17498,Yuri Konstantinovich Belyaev,Lomonosov Moscow State University,1960,Russia,Local Properties of Gaussian Processes,['10480'],"['75947', '117617', '193229', '100486']"
+17499,Vadim Ivanovich Bityutskov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17501,Login Nikolayevich Bolshev,Lomonosov Moscow State University,1955,Russia,On the question of testing some complex statistical hypotheses,['10480'],"['116802', '117026', '187211', '118244', '117027', '80522', '117028', '117029', '67236']"
+17502,Aleksandr Alekseevich Borovkov,Lomonosov Moscow State University,1959,Russia,,['10480'],"['270814', '95276', '270815', '200759', '246415']"
+17500,Evgenii Sereevich Bozhich,Lomonosov Moscow State University,1987,Russia,On the Complexity of Derivations in Arithmetical Theories,['10480'],[]
+17503,Aleksandr Vadimovich Bulinskii,Lomonosov Moscow State University,1977,Russia,,['10480'],"['87277', '174826', '174819', '174821', '174810', '174820', '174822', '174817', '174811', '174824', '174809', '174823', '174825']"
+17504,Nikolai Aleksandrovich Dmitriev,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17505,Roland Lvovich Dobrushin,Lomonosov Moscow State University,,Russia,,['10480'],"['101871', '101869', '99278', '135633', '184077', '92884', '101870', '190709', '99277', '95826']"
+17506,A. N. Dvoichenkov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17507,Eugene B. (Evgenii Borisovitsh) Dynkin,Lomonosov Moscow State University,1948,Russia,,['10480'],"['98930', '79450', '79454', '39425', '45649', '79445', '38440', '15024', '79453', '79444', '61504', '79457', '79451', '79455', '79452', '48801', '79446', '79447', '79458', '39503', '79449', '47712', '79456', '75422', '51555', '45083', '79448', '44129', '75435', '44121']"
+17508,Vladislav Dimitrievich Erokhin,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17509,Mikhail Konstantinovich Fage,Lomonosov Moscow State University,,Russia,,['10480'],['137548']
+87888,Anatoliy  Fedenko,Lomonosov Moscow State University,1954,Russia,Classification of Symmetric Spaces of Non-Compact Type,['10480'],['75514']
+17510,Sergei Vasil'evich Fomin,Steklov Institute of Mathematics,1942,Russia,,['10480'],"['95099', '228302', '94903']"
+17511,G. A. Gal'perin,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17512,Israel Moiseevich Gelfand,Lomonosov Moscow State University,1935,Russia,,['10480'],"['173871', '6269', '85896', '18743', '89558', '106300', '106301', '74365', '171005', '44006', '110419', '84448', '128879', '25063', '135979', '91161', '91200', '105787', '22253', '76147', '161386', '18879', '70200', '107031', '42004', '140604']"
+45649,Igor V. Girsanov,Lomonosov Moscow State University,1961,Russia,,"['10480', '17507']","['148343', '45275']"
+17514,O. S. Ivashev-Musatov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+65170,Boris Mikhailovich Kloss,All-Russian Scientific Research Institute of Automation (VNIIA),1960,Russia,Limit theorems of probability theory on bicompact groups,['10480'],['64569']
+17515,A. T. Kondurar,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17516,Mikhail Vasil'evich Kozlov,Lomonosov Moscow State University,,Russia,,['10480'],"['190246', '190248']"
+17517,Valerii Vasil'evich Kozlov,Lomonosov Moscow State University,1974,Russia,Qualitative analysis of motion of a rigid body in integrable cases,['10480'],"['156317', '88056']"
+149310,Piotr Alexeevich Kozulaev,Lomonosov Moscow State University,1947,Russia,Extrapolation Of Some Random Processes,['10480'],[]
+49527,Alexander Sergeevich Kuzichev,Lomonosov Moscow State University,1966,Russia,Geometrical Methods in Combinatory Logic,"['98102', '10480']","['264671', '204243', '49549', '235962', '49536', '199942', '199942']"
+17518,Viktor Petrovich Leonov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17519,Leonid Anatolievich Levin,Lomonosov Moscow State University,1972,Russia,Some Theorems on the Algorithmic Approach to Probability Theory and Information Theory (unsuccessful defence for political reasons),"['10480', '25184']","['8665', '168045', '167849']"
+17520,Anatolij Ivanovich Mal'tsev,Lomonosov Moscow State University,1937,Russia,Torsion Free Abelian Groups of Finite Rank,['10480'],"['58997', '93910', '130620', '88853', '90739', '57466']"
+20640,Per  Martin-Löf,Stockholm University,1970,Sweden,Notes on constructive mathematics,['10480'],"['134246', '106479', '134054', '101786', '34788', '106051']"
+17522,A. V. Martynov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17523,R. F. Matveev,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17524,Yurii Tikhonovich Medvedev,Lomonosov Moscow State University,1955,Russia,,['10480'],[]
+17525,Lev Dmitrievich Meshalkin,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17526,Vladimir Semenovich Mikhalevich,Lomonosov Moscow State University,,Russia,,['10480'],"['139777', '134411']"
+17527,Mikhail Dimitrievich Millionshchikov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+91201,Robert Adolfovich Minlos,Lomonosov Moscow State University,1968,Russia,The Mathematical Problems of Contemporary Statistical Physics,"['10480', '91183']","['92789', '135980', '153475']"
+17528,Andrey Sergeevich Monin,Lomonosov Moscow State University,,Russia,,['10480'],['78677']
+17529,Sergey Mikhailovich Nikol'skii,Lomonosov Moscow State University,1935,Russia,,['10480'],"['108431', '92011', '92509', '67492', '122173', '137031', '122174', '177952', '97287', '92277']"
+17530,Aleksandr Mikhaylovich Obukhov,Lomonosov Moscow State University,1947,Russia,,['10480'],"['30269', '208769']"
+17531,Yurii Semenovich Ochan,Lomonosov Moscow State University,,Russia,,['10480'],['134050']
+17532,Yurii Petrovich Ofman,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17533,B.  Penkov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17534,Aleksei Arkadievich Petrov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17535,Mark Semenovich Pinsker,Lomonosov Moscow State University,,Russia,,['10480'],['134842']
+17536,Aleksandr Vladimirovich Prokhorov,Lomonosov Moscow State University,,Russia,,['10480'],['184741']
+17537,Yuri Vasilevich Prokhorov,Lomonosov Moscow State University,,Russia,,['10480'],"['155834', '101278', '135010', '159500', '135009', '189630', '99628', '53009', '136935', '99627', '130049', '134292', '189569']"
+17538,Yuri Anatolievich Rozanov,Lomonosov Moscow State University,,Russia,,['10480'],"['150167', '238837']"
+17539,M.  Rozenblat-Rot,Lomonosov Moscow State University,,Russia,,['10480'],[]
+101891,Boris Aleksandrovich Sevastyanov,Lomonosov Moscow State University,,Russia,,['10480'],"['100995', '139483']"
+17541,Albert Nikolayevich Shiryaev,Steklov Institute of Mathematics,1961,Russia,Optimal Methods on Quickest Detection Problems,['10480'],"['181526', '181831', '181525', '181143', '181802', '120121', '180212', '181144', '181805', '90326', '181829', '181832', '181097', '29366', '181804', '181820', '148343', '181825', '180230', '187324', '175522', '86843', '126950', '79628', '184954', '181577', '182122', '182417', '181809', '180228', '129323', '181835', '181833', '181099', '181821', '181808', '20120', '262140', '180125', '181830', '181806', '69195', '62272', '83760', '185467', '53304', '180285', '181828', '168370', '154233', '181826', '180403', '181824', '181527', '11703', '181823', '181827', '181522', '181523', '167557', '181803', '181807', '180229', '181524', '95690', '180404', '180284', '181822']"
+17542,Fedor Isaakovich Shmidov,Lomonosov Moscow State University,1938,Russia,Differential Properties of Sets and Functions (Russian),['10480'],[]
+10481,Yakov Grigor'evich Sinai,Lomonosov Moscow State University,1960,Russia,,['10480'],"['97143', '141681', '144884', '67722', '66537', '34125', '22248', '155632', '40867', '34126', '14863', '137239', '246185', '196344', '143707', '252215', '28158', '10482', '105689', '241902', '11733', '14865', '126168', '15062', '49604', '143706', '113045', '88155', '32902', '182311', '169082', '109177', '66075', '53474', '59878', '174125', '163929']"
+17543,Sagdy Khasanovich Sirazhdinov,Lomonosov Moscow State University,,Russia,,['10480'],['140533']
+139910,Bernhard  Thalheim,Lomonosov Moscow State University,1979,Russia,,['10480'],"['219482', '221815', '221805', '221814', '139911', '221808', '257838', '221809', '194732', '221811', '221813']"
+17544,Vladimir Mikhailovich Tikhomirov,Lomonosov Moscow State University,,Russia,,['10480'],"['107493', '107494', '105801', '107491', '96428', '58089', '107492', '105592', '215983', '107044', '42048']"
+17545,A. N. Tulaikov,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17546,Vladimir Andreevich Uspensky,Lomonosov Moscow State University,1955,Russia,Operatoins on Recursively Enumerable Sets,['10480'],"['49545', '49544', '49533', '49538', '49539', '97268', '49546', '49549', '49537', '49532', '49529', '49531', '49551', '49534', '49536', '49547', '49548', '49542', '49540', '49541', '49530', '49543', '49550', '49535', '95800']"
+108207,Daredzhan Razhdenovna Vashakidze,Lomonosov Moscow State University,1937,Russia,,['10480'],[]
+17547,Ivan Yakovlevich Verchenko,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17548,Vladimir Grigorievich Vinokurov,Lomonosov Moscow State University,,Russia,,['10480'],['138205']
+36114,Anatoliy Georgievich Vitushkin,Lomonosov Moscow State University,1958,Russia,Estimation of The Complexity of a Tabulation Problem,['10480'],"['85337', '134972', '80821', '106874', '80642', '35501', '178520', '205546']"
+17549,Vladimir Grigor'evich Vovk,Lomonosov Moscow State University,1988,Russia,Predictability of Algorithmically Random Sequences,"['10480', '67335']","['136240', '121462', '244140', '140003', '92436', '210748', '152671']"
+169622,Zikun  Wang,Lomonosov Moscow State University,1958,Russia,,['10480'],"['246217', '164064', '198829']"
+17550,Akiva Moiseevich Yaglom,Lomonosov Moscow State University,1946,Russia,On the Statistical Reversibility of Brownian Motion,['10480'],"['134838', '134840']"
+17551,B. M. Yunovich,Lomonosov Moscow State University,,Russia,,['10480'],[]
+44121,Aleksandr Adolphovich Yushkevich,Lomonosov Moscow State University,1958,Russia,Strong Markov Processes,"['17507', '10480']","['79733', '79732']"
+17552,V. N. Zasukhin,Lomonosov Moscow State University,,Russia,,['10480'],[]
+17554,Vladimir Mikhailovich Zolotarev,Lomonosov Moscow State University,,Russia,,['10480'],"['166697', '49155', '188328']"
+17553,Igor G. Zurbenko,Lomonosov Moscow State University,,Russia,,['10480'],"['85040', '149322', '47900', '223115']"
+76951,Evgenii Mikhailovich Landis,,,None,,"['76948', '55146']","['98462', '107443', '98523', '107445', '107442', '107447', '79333', '176620', '76965', '268376', '107444', '107446']"
+95616,N. V. Marchenko,Lomonosov Moscow State University,1963,Russia,On continuation and fixed points of completely continuous operators and existence of solutions of nonlinear integral equations,['76948'],[]
+110378,Ivan Evgenievich Bazilevich,Lomonosov Moscow State University,1935,Russia,,['36441'],[]
+106157,Anisim Fedorovich Bermant,Lomonosov Moscow State University,1933,Russia,,['36441'],['155603']
+127720,Andrei Vasilievich Bitsadze,Lomonosov Moscow State University,,Russia,,['36441'],"['139936', '138575', '125318', '88913']"
+118925,Anatolii M. Fedotov,Novosibirsk State University,,Russia,,"['118915', '36441']",[]
+79963,Mstislav Vsevolodovich Keldysh,Lomonosov Moscow State University,1937,Russia,Complex Variable and Harmonic Functions Representation by Polynomial Series,['36441'],"['168744', '108318', '35710', '108477']"
+111364,David Aleksandrovich Kveselava,Lomonosov Moscow State University,1940,Russia,,['36441'],[]
+52129,Naum Samoilovich Landkof,Taras Shevchenko National University of Kyiv,1940,Ukraine,Some properties of irregular points of the generalized Dirichlet problem,['36441'],"['22835', '224957', '95220']"
+100732,Aleksei Ivanovich Markushevich,Lomonosov Moscow State University,,Russia,,['36441'],"['123922', '154734', '102554', '101096', '83817', '140881', '138305', '101095']"
+102065,Leonid Ivanovich Sedov,Lomonosov Moscow State University,1936,Russia,,"['102057', '102058', '36441']","['175803', '181334', '141880']"
+110379,Boris Vladimirovitch Shabat,Lomonosov Moscow State University,1944,Russia,,['36441'],"['137890', '198424', '46913', '109608', '140074']"
+78688,Lev Israelevich Volkovyskii,Steklov Institute of Mathematics,1937,Russia,,['36441'],"['108051', '108052', '78685', '108065', '108119', '108050', '108057', '108058', '58900', '108037', '108059', '108063', '108054', '108062', '91370', '150872', '14111', '107984', '163235', '108120', '108053', '108061']"
+173401,Israel Yakovlevich Akushsky,Lomonosov Moscow State University,,Russia,,['59649'],[]
+98671,Gusein Aleskerovich Aliev,Lomonosov Moscow State University,1964,Russia,,['59649'],[]
+153131,Lev Ernestovich Elsgolts,Lomonosov Moscow State University,1939,Russia,,['59649'],['155721']
+107968,Abram Il'ich Fet,Lomonosov Moscow State University,1949,Russia,,['59649'],"['146728', '134293', '107974']"
+29674,Andrzej  Granas,Lomonosov Moscow State University,1958,Russia,Some Applications of the Antipodal Theorem in Topology of Functional Spaces,"['59649', '12548']","['29673', '59697', '59698', '59696', '68055', '59692', '59693', '59695', '13832', '13834', '13831', '59694', '68233', '44800', '13835', '58758']"
+119658,David Pavlovich Grossman,Lomonosov Moscow State University,1948,Russia,,['59649'],[]
+153115,A. N. Ivanova,Lomonosov Moscow State University,,Russia,,['59649'],[]
+93646,Kulzhabai A. Kasymov,Lomonosov Moscow State University,1963,Russia,,['59649'],[]
+120974,Gennadiy Pavlovich Klimov,,,None,,['59649'],"['154469', '120973', '120975', '166045', '151976']"
+63841,Isaac Evseevich Mayzlin,Lomonosov Moscow State University,1966,Russia,Information Search and Networks Optimization Algorithms,['59649'],[]
+153114,Aleksandr Grigorievich Sigalov,Lomonosov Moscow State University,1945,Russia,Almost Isometric Maps and Pseudo-Differentiability,['59649'],"['165400', '153476']"
+92502,S. A. Smolyak,Lomonosov Moscow State University,1966,Russia,On Optimal Renewal of Functions and Functionals from Them,['59649'],[]
+74403,Vladimir Ivanovich Sobolev,Lomonosov Moscow State University,1940,Russia,,['59649'],"['95520', '80629', '96460']"
+85029,Vladilen Aleksandovich Trenogin,Lomonosov Moscow State University,1960,Russia,,['59649'],['85023']
+105528,Vladilen Aleksandrovich Trenogin,Lomonosov Moscow State University,1960,Russia,,['59649'],['165962']
+106000,Elizbar Semenovich Tsitlanadze,Lomonosov Moscow State University,,Russia,,['59649'],[]
+156822,Lev Yakovlevich Tslaf,Lomonosov Moscow State University,1938,Russia,,['59649'],[]
+62885,Mark Iosifovich Vishik,Steklov Institute of Mathematics,1947,Russia,,['59649'],"['99946', '99371', '161983', '99372', '99370', '197957', '80632', '80129', '99373', '80130', '99471', '154730', '80099', '98911', '154731', '99472', '99368', '103508', '134843', '66302', '99369', '99367', '75254', '85136', '99473']"
+158637,Vladimir Illich Zalyapin,Lomonosov Moscow State University,1972,Russia,Random walks and special functions of the mathematical physics,['59649'],[]
+140947,Nurzhan  Bokaev,Lomonosov Moscow State University,1984,Russia,Some Problems of Uniqueness of Expansion of Functions into Series with Respect to the Multiplicative Systems and to the Haar Type Systems,"['24407', '110558']","['165064', '144206', '144204', '144177', '165063', '198069', '144205']"
+110377,Aleksandr L'vovich Brudno,Lomonosov Moscow State University,,Russia,,['24407'],[]
+110376,Vladimir Georgievich Chelidze,Lomonosov Moscow State University,,Russia,,['24407'],['223125']
+110557,Valery Mikhailovich Darevsky,Lomonosov Moscow State University,,Russia,,['24407'],[]
+110319,Evgenii Prokofievich Dolzhenko,Lomonosov Moscow State University,1961,Russia,,['24407'],"['256641', '146273', '139152']"
+110375,Yurii Borisovich Germeyer,Lomonosov Moscow State University,,Russia,,['24407'],['166073']
+142293,Natalia Nikolaevna Kholshchevnikova,Steklov Institute of Mathematics,1976,Russia,,['24407'],[]
+100281,Nikolay Petrovich Kuptsov,Lomonosov Moscow State University,1950,Russia,,['24407'],"['101288', '110317']"
+93240,Mikhail Isaakovich Livshits,Lomonosov Moscow State University,1965,Russia,On Trigonometric Series Which Convergent on Subsequences of Partial Sums,['24407'],[]
+110558,Valentin Anatol'evich Skvortsov,Lomonosov Moscow State University,1963,Russia,Properties of Integrals That Can Recover The Coefficients of Everywhere Convergent Trigonometric Series.,['24407'],"['141133', '140947', '141260', '140943', '188921', '140942', '140938', '141136', '141259', '140944', '141132', '140948', '140940', '162400', '140961', '140939', '140937', '116826', '140946', '141135', '140936']"
+66409,Sergey Borisovich Stechkin,Lomonosov Moscow State University,1948,Russia,On the Order of Best Approximations of Continuous Functions,"['24407', '53459']","['76377', '76378', '76379', '76380', '76400', '76389', '76397', '76399', '76398', '76396', '76395', '76394', '76387', '76386', '153501', '144774', '76391', '76393', '76385', '76392', '88937', '76390', '76388']"
+110374,Aleksandr Andraniki Talalyan,Steklov Institute of Mathematics,1956,Russia,On Convergence of Orthogonal Series,['24407'],"['141541', '140598', '140906', '141950', '141560', '140785', '141504', '141540', '141542']"
+110559,Georgii Pavlovich Tolstov,Lomonosov Moscow State University,,Russia,,['24407'],[]
+99503,Irina Andreevna Vinogradova,Steklov Institute of Mathematics,1962,Russia,On Indefinite A-Integral,['24407'],[]
+211328,Stanislav Vasilyevich  Emelyanov,Institute of Control Sciences,1964,Russia,The theory of systems with variable structure,['207833'],['212557']
+212558,Vadim  Utkin,Russian Academy of Sciences,1964,Russia,Variable Structure Systems and Sliding Mode Control,['207833'],"['218251', '214580']"
+113320,Nikolai Pavlovich Romanov,Lomonosov Moscow State University,1936,Russia,,['36444'],"['128683', '128689', '143961']"
+138748,Varujan  Atabekyan,Lomonosov Moscow State University,1987,Russia,Diagram Method and Groups with Identities,"['96715', '93533']","['235535', '164905', '193277', '215652', '158123', '158263', '235536']"
+93538,Lev Dmitrievich Beklemishev,Steklov Institute of Mathematics,1992,Russia,Classification of Propositional Provability Logics,"['93533', '83475']","['168402', '94085', '168400', '95818', '95819']"
+83476,Sergei Vasilievich Goryachev,Lomonosov Moscow State University,1988,Russia,On Relative Interpretability of Some Extensions of Arithmetic,"['93533', '83475']",[]
+168223,Aleksandr Gennadievich Ivanov,Lomonosov Moscow State University,1984,Russia,Complexity of Recognition of an Approximate Occurrence of Words on Turing Machines,['93533'],[]
+159987,Igor  Lysenok,Steklov Institute of Mathematics,1989,Russia,Algorithmic problems and quadratic equations in hyperbolic groups,['93533'],[]
+168222,Gennady Semenovich Makanin,Lomonosov Moscow State University,1967,Russia,The Identity Problem in Finitely Defined Groups and Semigroups,"['13982', '93533']",[]
+168563,Grigor Usikovich Oganesyan,Lomonosov Moscow State University,1979,Russia,The Word Identity and Divisibility Problems in Finitely-Defined Semigroups,['93533'],[]
+164083,Yuri  Ozhigov,Lomonosov Moscow State University,1983,Russia,Two variable equations in free group,['93533'],[]
+108275,Alexander Aleksandrovich Razborov,Lomonosov Moscow State University,1987,Russia,On Systems of Equations in a Free Group,['93533'],"['190221', '213376', '168633']"
+163916,Nikolai  Repin,Steklov Institute of Mathematics,1984,Russia,Problems recognizing the solvability of equations in nilpotent groups,['93533'],[]
+166454,Osanna  Sarkisyan,Lomonosov Moscow State University,1983,Russia,The word problem for certain classes of groups and semigroups,['93533'],[]
+164081,Anna  Savushkina,Lomonosov Moscow State University,1997,Russia,Defining relations for subgroups of automorphism groups of free groups,['93533'],[]
+163915,Valeriy  Shirvanyan,Steklov Institute of Mathematics,1976,Russia,Some properties of free periodic groups of odd exponent,['93533'],[]
+168224,Sergey Konstantinovich Sobolev,Steklov Institute of Mathematics,1977,Russia,Decidability Problems for Propositional Calculi and Logics,['93533'],[]
+163823,Alexey  Talambutsa,Steklov Institute of Mathematics,2011,Russia,Attainability of the minimal exponential growth rate in groups with periodic relations,['93533'],[]
+168633,Oleg Vasilievich Verbitsky,Lomonosov Moscow State University,1994,Russia,Multi Interactive Proof Systems with a Constant Number of Rounds and Their Applications,"['93533', '108275']",[]
+98102,Sofia Alexandrovna Yanovskaya,,,None,,['105688'],"['123922', '168412', '168406', '168409', '203295', '49527', '211291', '168307', '168414', '235962', '168413', '168415', '206482', '195252', '195252']"
+168599,Anna Fedorovna Danil'chenko,Academy of Sciences of Moldova,1979,Moldova,Parametric Expressibility of Functions in Tree-Valued Logic,['168307'],[]
+168596,Vladimir Yakovlevich Gerchiu,Steklov Institute of Mathematics,1972,Russia,Finite Approximability Problems for Superintuitionistic Propositional Logics,['168307'],[]
+168598,Aleksei Yurievich Muravitskij,Academy of Sciences of Moldova,1985,Moldova,Provability Logic and Provably Intuitionistic Logic,['168307'],['168728']
+168600,Ivan Semenovich Negru,Academy of Sciences of Moldova,1979,Moldova,On the Family of Ordinary Propositional Logics and Implicative Logics with One Variable,['168307'],[]
+168602,Mefodij Fedorovich Ratsa,Academy of Sciences of Moldova,1968,Moldova,Functional Completeness Problems for the Logic Corresponding to Jaskowski's First Matrix,['168307'],['171863']
+168728,Irina Gayanovna Simonova,Academy of Sciences of Moldova,1992,Moldova,Provably Intuitionistic Logic and Its Extensions,"['168307', '168598']",[]
+168601,Aleksandr Il'ich Tsitkin,Academy of Sciences of Moldova,1979,Moldova,Inference Rules Admissible in Superintuitionistic Logics,['168307'],[]
+67335,Aleksei L'vovich Semenov,Lomonosov Moscow State University,1975,Russia,On Definability in Some Decidable Theories,['113668'],"['103646', '168396', '264822', '17549']"
+76175,Zhanuzak Almagambetovich Almagambetov,Novosibirsk State University,1965,Russia,On Algorithmic Problems of the Model Theory,['76166'],[]
+77171,Erzhan R. Baisalov,Omsk State University,1991,Russia,Countable Models of Superstable Theories,['76166'],['139402']
+76173,Bektur Sembiuly Baizhanov,Novosibirsk State University,1981,Russia,Spectral Problems of Totally Transcendent Theories of Finite Rank,['76166'],"['78373', '78373', '78372', '260801']"
+76180,M. I. Bekenov,Novosibirsk State University,1984,Russia,Properties of Superstable Theories,['76166'],[]
+76182,Boris Nikolaevich Drobotun,Novosibirsk State University,1977,Russia,On Numerations of Special Models,['76166'],[]
+76181,Mirzakhan M. Erimbetov,Novosibirsk State University,1975,Russia,On Some Questions on Countable Complete Theories Related to the Notion of a Rank,['76166'],[]
+76176,Nazif Garifullinovich Khisamiev,Novosibirsk State University,1968,Russia,Problems of the Elementary Theory of Lattice-Ordered Algebraic Systems,"['76166', '125433']","['77163', '125249', '77164']"
+76177,Tolende G. Mustafin,Novosibirsk State University,1971,Russia,Some Questions on Axiomatizable Classes of Models,['76166'],"['78386', '78387']"
+76174,Tursunbek A. Nurmagambetov,Novosibirsk State University,1984,Russia,Almost Omega-Stable Theories,['76166'],[]
+76184,Abyz Temirgalievich Nurtazin,Novosibirsk State University,1974,Russia,Computable Classes and Algebraic Criteria of Autostability,['76166'],[]
+76178,Amangeldy I. Omarov,Novosibirsk State University,1967,Russia,On Some Applications of Filtered Products in Model Theory,['76166'],"['139402', '78388']"
+76179,B. I. Omarov,Novosibirsk State University,1983,Russia,Extensions by Constants and the Rank Functions of Complete Theories,['76166'],[]
+76183,T. Sh. Shayakhmetov,Novosibirsk State University,1970,Russia,On the Non-Solvability fo the Elementary Theory of Some Algebraic Systems,['76166'],[]
+77172,Alexander Alexandrovich Vikent'ev,Novosibirsk State University,1992,Russia,Theories with Covers and Definable Subsets,"['76166', '61238']",[]
+127576,Janis  Barzdins,,,None,,['132047'],['56497']
+192699,Michael  Dekhtyar,Lomonosov Moscow State University,1977,Russia,On the Complexity of Relative Computations,['132047'],[]
+270383,Irina A. Lomazova,Russian Academy of Sciences,1981,Russia,Semantics and Algorithmic Logic for Programs with goto,['132047'],[]
+237226,Alexander Moshe Rabinovich,Tel Aviv University,1989,Israel,Nets and Processes,['132047'],['237227']
+153895,Dmitry  Efrosinin,"Peoples' Friendship University, Moscow and Universität Trier",2004,Russia,Controlled Queueing Systems with Heterogeneous Servers,['120975'],[]
+37688,Wolfgang  Engel,Martin-Luther-Universität Halle-Wittenberg,1953,Germany,Primteiler Höherer Art im Rationalen Funktionenkörper von n Veränderlichen und ihr Verhalten bei Cremona-Transformationen,"['15217', '18351']","['80658', '80648', '80660', '43078', '43872', '80649', '80657', '80651', '43869', '43870', '80661', '37624', '80650', '52859', '80659', '43871', '80656', '80652', '80663', '80662', '80653']"
+245823,Stanislav  Aleshin,Lomonosov Moscow State University,1973,Russia,,['52859'],[]
+59086,Oleg A. Shcherbina,Russian Academy of Sciences,1979,Russia,On Local Algorithms for Solution,['52859'],[]
+181071,Sergey Vladimirovich Gribok,Lomonosov Moscow State University,2003,Russia,On realization of Boolean functions in some classes of binary decision programs,['180636'],[]
+187628,Mikhail Sergeevich Shupletsov,Lomonosov Moscow State University,2011,Russia,Synthesis Methods and Complexity Bounds for Networks of Relations,['180636'],[]
+88992,Mikhail H. Klin,Kiev State University,1975,Ukraine,Investigation of Relational Algebras Invariant Under the Action of Certain Classes of Permutation Groups,"['98474', '113476']","['89011', '185618', '194562', '194072', '190662']"
+185617,Alonso  Castillo-Ramirez,Imperial College London,2014,UnitedKingdom,On Majorana Algebras and Representations,['185618'],[]
+196215,Sophie  Decelle,Imperial College London,2014,UnitedKingdom,"Majorana Representations and the Coxeter Groups G^(m,n,p)",['185618'],[]
+224238,Chien Sheng  Lim,Imperial College London,2017,UnitedKingdom,From the Monster to Majorana: A study of the 3A-axes,['185618'],[]
+239430,Madeleine  Whybrow,Imperial College London,2018,UnitedKingdom,Majorana algebras and subgroups of the Monster,['185618'],[]
+170967,Rustem  Takhanov,Moscow Institute of Physics and Technology,2008,Russia,Predicate description of supplementary constraints in pattern recognition problems,['170436'],[]
+170966,Konstantin Vyacheslavovich Vorontsov,Moscow Institute of Physics and Technology,1999,Russia,The local bases in algebraical approach to recognition problem,['170436'],"['197991', '246496']"
+79753,Sergei  Bezrukov,Lomonosov Moscow State University,1984,Russia,Isoperimetric Type Problems on the Unit Cube,['79755'],[]
+139382,Alexander  Dainiak,Lomonosov Moscow State University,2009,Russia,Bounds for the Number of Independent Sets in some Classes of Graphs,['79755'],[]
+130204,Eduard  Toman,Lomonosov Moscow State University,1977,Russia,Geometric structure of random boolean functions,['79755'],['117390']
+230315,Martina  Daňková,Ostravská univerzita v Ostravě,2005,CzechRepublic,Approximating Formulas in the Frame of Basic Logic,['155133'],[]
+230093,Petr  Hurtik,Ostravská univerzita v Ostravě,2017,CzechRepublic,Image processing using soft-computing methods,['155133'],[]
+230314,Martin  Štěpnička,Ostravská univerzita v Ostravě,2008,CzechRepublic,Fuzzy Transform and its Applications to Problems in Engineering Practice,['155133'],[]
+230316,Petra (Petra Hoďáková) Števuliáková,Ostravská univerzita v Ostravě,2014,CzechRepublic,Fuzzy (F-)Transform of Functions of Two Variables and its Applications in Image Processing,['155133'],[]
+230328,Pavel  Vlašánek,Ostravská univerzita v Ostravě,2014,CzechRepublic,"Inpainting method based on the
+ F-transform",['155133'],[]
+196563,Vladimir Konstantinovich Zlobin,,,None,,[],['196562']
+99292,Boris V. Kostrov,,,None,,[],"['99300', '196562']"
+20527,Kai  Salomaa,Turun yliopisto,1989,Finland,Alternation and Pushdown Stores in Computations of Tree Automata,"['20509', '14982']","['169475', '169476', '168228', '220169', '220170', '168344', '187327', '169474']"
+196852,Mikhail  Barash,Turun yliopisto,2015,Finland,Defining contexts in context-free grammars,['168344'],[]
+168437,Artur  Jeż,Uniwersytet Wrocławski,2010,Poland,Conjunctive grammars and equations over sets of natural numbers,"['105531', '168344']",[]
+176368,Tommi J. M. Lehtinen,Turun yliopisto,2013,Finland,Numbers and languages,['168344'],[]
+7486,Karl Theodor Wilhelm Weierstraß,Westfälische Wilhelms-Universität Münster,1841,Germany,Über die Entwicklung der Modularfunktionen,['29458'],"['58044', '40979', '40980', '40981', '9712', '24101', '29561', '234089', '4642', '11370', '49522', '9713', '45120', '45121', '9714', '9715', '9716', '18336', '9717', '9711', '52330', '72581', '250104', '250100', '9720', '18337', '9721', '51691', '42452', '18344', '46876', '9722', '47611', '7487', '49039', '49397', '49176', '9723', '9724', '9718', '9719', '63743', '18334', '63739', '63738', '66188']"
+18331,Ernst Eduard Kummer,Martin-Luther-Universität Halle-Wittenberg,1831,Germany,De cosinuum et sinuum potestatibus secundum cosinus et sinus arcuum multiplicium evolvendis,['25484'],"['58045', '58046', '18598', '40979', '40980', '40981', '9712', '58056', '24101', '29561', '45100', '45101', '18332', '17983', '4642', '45107', '11370', '45108', '45113', '45115', '45118', '76359', '9713', '9714', '9715', '30705', '18336', '52330', '250104', '156724', '49524', '250100', '9720', '9721', '51691', '51692', '51693', '62590', '76438', '42452', '18344', '46876', '47611', '7487', '49039', '49397', '49176', '9723', '9718', '9719', '63741', '63742', '63743', '18334', '63739', '63740', '63738', '63736']"
+55185,Joseph  Liouville,"Faculté des Sciences, Paris",1836,France,"Sur le développement des fonctions ou parties de fonctions en séries de sinus et de cosinus, dont on fait usage dans un grand nombre de questions de Mécanique et de Physique, suivi de Sur la figure d'une masse fluide homogène en équilibre, et douée d'un mouvement de rotation","['17865', '104652']","['24101', '100550']"
+146096,Leonid Kuz'mich Lakhtin,Lomonosov Moscow State University,,Russia,,['24101'],[]
+24108,Nikolay Yakovlevich Sonin,Lomonosov Moscow State University,1874,Russia,,['24101'],[]
+98931,Max Aizikovich Akivis,Lomonosov Moscow State University,1958,Russia,,['36439'],[]
+89233,Vaclovas  Bliznikas,Moscow State Pedagogical Institute,1961,Russia,On the Geometry of Metric Spaces of Linear Elements,['36439'],"['98089', '98083', '98087', '98085', '95299', '98090', '89271', '98084', '98086']"
+61016,Vladislav V. Goldberg,Lomonosov Moscow State University,1961,Russia,Some Pairs of Laplace Sequences in N-dimensional Projective Space,['36439'],[]
+89234,Kleopas  Grincevicius,Lomonosov Moscow State University,1955,Russia,On Hypercomplexes of Lines in the Four-Dimensional Projective Space,['36439'],"['98088', '89279', '98089', '98090', '89280']"
+98358,Nikolai Ivanovich Kovantsov,Lomonosov Moscow State University,1948,Russia,,['36439'],['100731']
+102548,G. N. Makeev,Moscow State Pedagogical Institute,1963,Russia,Focal Pair of Congruences,['36439'],[]
+179351,Anatoly Mikhailovich Vasil'ev,Lomonosov Moscow State University,1952,Russia,Invariant analytic methods in differential geometry,['36439'],"['195222', '17039']"
+104676,Georgii Petrovich Boev,Saratov State University,1935,Russia,,['36436'],[]
+104487,Arkadii Aleksandrovich Kosmodem'yanskii,Lomonosov Moscow State University,,Russia,,['36436'],[]
+104673,Georgii Ivanovich Petrov,Lomonosov Moscow State University,,Russia,,['36436'],[]
+104675,Vladimir Nikolaevich Veniaminov,Lomonosov Moscow State University,,Russia,,['36436'],[]
+92511,Nikolai Ivanovich Brish,Lomonosov Moscow State University,1953,Russia,,"['55146', '55145']",['79472']
+107476,Lev Alekseevich Chudov,Lomonosov Moscow State University,1952,Russia,,['55146'],[]
+165961,Aleksey Fedorovich Filippov,Lomonosov Moscow State University,1953,Russia,,['55146'],['193783']
+55067,Sergey Konstantinovich Godunov,Lomonosov Moscow State University,1954,Russia,Different Methods for Shock Waves,['55146'],"['115556', '115104', '115557', '137249', '115105', '115106', '166427']"
+54543,Olga Aleksandrovna Ladyzhenskaya,St. Petersburg State University,,Russia,,"['54547', '55146']","['55065', '205800', '55066', '46697', '99917', '55622', '55115', '44028', '54546', '93031', '15008', '54544', '99918', '55000', '54545']"
+97516,Valentin Petrovich Mikhailov,Lomonosov Moscow State University,,Russia,,"['55146', '55145']",['114796']
+98336,Anatoliy Dmitrievich Myshkis,Lomonosov Moscow State University,1951,Russia,,['55146'],"['104963', '128880', '129122', '129121', '118324', '134836', '129123', '74970', '117291', '132921', '98370', '129126', '98939', '129119', '128881', '129120']"
+55145,Olga Arsenievna Oleinik,Lomonosov Moscow State University,1950,Russia,On Topology of Real Algebraic Curves on Algebraic Surfaces,['55146'],"['97160', '97639', '97640', '92511', '55260', '96980', '96981', '98166', '80854', '94773', '97161', '110069', '98167', '97162', '97641', '96832', '92510', '88082', '88081', '93525', '97263', '97265', '93596', '93597', '96579', '74173', '96580', '96581', '96640', '97516', '97518', '96641', '96833', '97517', '96831', '80526', '93722', '92332', '147535', '97264', '97383', '93721', '93526', '97385', '97384', '87985', '87986', '93040']"
+98941,Victor Solomonovich Ryabenkii,Lomonosov Moscow State University,1952,Russia,On stability of difference equations,['55146'],"['100333', '59107']"
+93040,Evgenii Petrovich Zhidkov,Lomonosov Moscow State University,1952,Russia,,"['55146', '55145']",[]
+98147,Samarii Aleksandrovich Galpern,Lomonosov Moscow State University,1937,Russia,,['36435'],"['98658', '98805', '134296', '134297', '45012']"
+176900,Petr Ivanovich Kuznetsov,Lomonosov Moscow State University,1949,Russia,,['36435'],[]
+105328,B. K. Kabalevskii,Lomonosov Moscow State University,,Russia,,['36437'],[]
+105359,S. V. Nesterov,Lomonosov Moscow State University,,Russia,,['36437'],[]
+105329,P. L. Smirnov,Lomonosov Moscow State University,,Russia,,['36437'],[]
+105330,P. I. Tsoi,Lomonosov Moscow State University,,Russia,,['36437'],[]
+106009,Mikhail Valerievich Bebutov,Lomonosov Moscow State University,1941,Russia,,['24107'],[]
+169504,Boris Mikhailovich Budak,Lomonosov Moscow State University,1946,Russia,Disperse Dynamical Systems,['24107'],['199673']
+171645,V. I. Antropova,Moscow State Pedagogical Institute,,Russia,,['24105'],[]
+171782,S. S. Demidov,Moscow State Pedagogical Institute,,Russia,,['24105'],[]
+171783,V. A. Dobrovolsky,Moscow State Pedagogical Institute,,Russia,,['24105'],[]
+171784,N. S. Ermolaeva,Moscow State Pedagogical Institute,,Russia,,['24105'],[]
+27340,V. V. Gussov,Moscow State Pedagogical Institute,1951,Russia,Aus der Geschichte der transzendenten Funktionen in Ru▒~_land und in der UdSSR,['24105'],[]
+102556,Valentin Ivanovich Lysenko,Moscow State Pedagogical Institute,1962,Russia,,['24105'],[]
+136934,Fedor Andreevich Medvedev,Lomonosov Moscow State University,1963,Russia,,['24105'],[]
+103152,Petris-Al'girdis Boleslavovich Paplauskas,Moscow State Pedagogical Institute,1962,Russia,Trigonometric Series from Fourier to Lebesgue,['24105'],[]
+171785,I. I. Simonov,Moscow State Pedagogical Institute,,Russia,,['24105'],[]
+171646,A. I. Volodarsky,Moscow State Pedagogical Institute,,Russia,,['24105'],[]
+73886,D. P. Baturov,Lomonosov Moscow State University,1989,Russia,"On Normality, Lindelöf Number, and Other Topological Properties",['72761'],[]
+73887,P. A. Biryukov,Lomonosov Moscow State University,1983,Russia,Ranks of Families of Sets and Properties of Topological Spaces,['72761'],[]
+73888,B. M. Bokalo,Lomonosov Moscow State University,1989,Russia,Tangency of Topologies and Properties of Scatteredness Type,['72761'],['169904']
+73889,R. Z. Buzyakova,Lomonosov Moscow State University,1995,Russia,"Cleavability, and Images of Cartesian Products under Condensations",['72761'],[]
+73890,M. M. Choban,Lomonosov Moscow State University,1969,Russia,Properties of Quotient Mappings and Classification of Spaces,['72761'],['35174']
+73891,N. K. Dodon,Lomonosov Moscow State University,1977,Russia,P-Scattered Spaces,['72761'],[]
+73892,Vladimir V. Filippov,Lomonosov Moscow State University,1971,Russia,On the Structure of Closed Mappings and the Behaviour of Some Fundamental Properties of Topological Spaces under Mappings,['72761'],['76956']
+73893,H. M. Genedi,Lomonosov Moscow State University,1988,Russia,On Location Properties in Topological Spaces,['72761'],[]
+73894,A. S. Gul'ko,Lomonosov Moscow State University,1996,Russia,Spaces with Rectifiable Diagonal,['72761'],[]
+73895,Igor I. Guran,Lomonosov Moscow State University,1983,Russia,On 0-Bounded Topological Groups and Minimal Groups,['72761'],"['79435', '88462']"
+73896,A. N. Jakivchik,Lomonosov Moscow State University,1995,Russia,"Products and Mappings of Topological Spaces, and Some Separation Properties",['72761'],[]
+73897,I. V. Jashchenko,Lomonosov Moscow State University,1994,Russia,The Space Cp(X ) and Some Questions of the Theory of Continuous Mappings,['72761'],[]
+73898,A. N. Karpov,Lomonosov Moscow State University,2000,Russia,Lindelöf Type Properties and Topological Products,['72761'],[]
+73899,A. V. Korovin,Lomonosov Moscow State University,1991,Russia,"Continuous Actions of Abelian Groups, and Topological Properties in Cp-Theory",['72761'],[]
+73900,Arkady G. Leiderman,Tomsk State University,1985,Russia,Corson Compacta and Spaces of Functions,['72761'],[]
+73901,C.  Liu,Ohio University,2002,UnitedStates,K-Networks and Mappings,['72761'],[]
+72805,Lewis D. Ludwig,Ohio University,2001,UnitedStates,Two Generalizations of Normality: Alpha-Normality and Beta-Normality,['72761'],[]
+73902,M. V. Matveev,Lomonosov Moscow State University,1985,Russia,Pseudocompact Spaces and Spaces Close to Them,['72761'],[]
+73903,S. J. Nedev,Lomonosov Moscow State University,1970,Russia,"The General Concepts of Real-Valued Distance, and Investigation of Topologies Based on Them",['72761'],"['160613', '160612']"
+73904,N. G. Okromeshko,Lomonosov Moscow State University,1983,Russia,Homogeneity and Continuous Images,['72761'],[]
+73905,Oleg G. Okunev,Lomonosov Moscow State University,1984,Russia,Some Applications of Real-Quotient Maps to the Theory of Topological Spaces,['72761'],[]
+73906,P. K. Osmatesku,Lomonosov Moscow State University,1965,Russia,A Theory of T1-Compactifications,['72761'],[]
+72806,Oleg Ivanovich Pavlov,Ohio University,1999,UnitedStates,Examples in Set-Theoretic Topology,['72761'],[]
+73907,Vladimir G. Pestov,Lomonosov Moscow State University,1983,Russia,Topological groups and algebraic envelopes of topological spaces,['72761'],"['236744', '236539', '163404', '195028', '90755']"
+73908,V. V. Popov,Lomonosov Moscow State University,1977,Russia,On Exponential Topology,['72761'],[]
+73909,D. V. Ranchin,Lomonosov Moscow State University,1979,Russia,"On Topologies Close to Compact Topologies, and on Sums and Modifications of Topologies",['72761'],[]
+73910,E. A. Reznichenko,Lomonosov Moscow State University,1992,Russia,Convex Compact Subspaces of Function Spaces and of Locally Convex Spaces,['72761'],[]
+73911,D. B. Shakhmatov,Lomonosov Moscow State University,1985,Russia,Topological Fields,['72761'],[]
+73912,Boris Emilievich Shapirovskij,Lomonosov Moscow State University,1977,Russia,On Tightness Type Properties in Compact Spaces,['72761'],[]
+73913,O. V. Sipacheva,Lomonosov Moscow State University,1991,Russia,Continuous Mappings and Cardinal Invariants in Cp-Theory,['72761'],[]
+73914,S. A. Svetlichnyj,Lomonosov Moscow State University,1991,Russia,"Properties of Topological Spaces Close to Metrizability, and Mappings",['72761'],[]
+73915,Jamal Khaled Tartir,Ohio University,1997,UnitedStates,On Relative Topological Properties,['72761'],[]
+176878,Scotty  Thompson,Ohio University,2009,UnitedStates,Comparing Topological Spaces Using New Approaches to Cleavability,['72761'],[]
+73916,M. G. Tkachenko,Lomonosov Moscow State University,1981,Russia,Properties of Compacta Arising under Operations of Union and Continuous Image,['72761'],"['137534', '182357', '137535', '137599']"
+73917,V. V. Tkachuk,Lomonosov Moscow State University,1983,Russia,Calibers and Cellularity Type Invariants of Topological Spaces,['72761'],[]
+73918,V. V. Uspenskij,Lomonosov Moscow State University,1983,Russia,Topological Properties of Function Spaces,['72761'],['233133']
+73919,Julia  Valuyeva,Ohio University,1999,UnitedStates,Tightness Type Properties and Relative Dimension,['72761'],[]
+80869,Dursun  Baladze,A. Razmadze Mathematical Institute of the Georgian Academy of Sciences,1964,Georgia,Homology and Cohomology Groups over a Pair of Groups of coefficients,['63492'],"['80861', '190546', '80860']"
+80874,Vladimer  Baladze,Ivane Javakhishvili Tbilisi State University,1980,Georgia,On Dimension Functions Based on Distinguished Classes Spaces and Complexes,"['63492', '80873']","['148260', '148673', '80870', '213911', '148283']"
+80876,Nodar  Berikashvili,Steklov Institute of Mathematics,1956,Russia,On the Axiomatic Theory of Spectra and Duality Theorems for Arbitrary Sets,['63492'],"['80865', '80863', '80866', '80864', '80862']"
+63503,Alexander  Chigogidze,Ivane Javakhishvili Tbilisi State University,1980,Georgia,,['63492'],"['94865', '94864']"
+80877,Badri  Dvalishvili,Ivane Javakhishvili Tbilisi State University,1978,Georgia,Some Basic Questions of the Theory of Bitopological Spaces,['63492'],['137600']
+80826,Hvedri  Inassaridze,A. Razmadze Mathematical Institute of the Georgian Academy of Sciences,1966,Georgia,Finite Order Compact Extensions of Completely Regular Spaces and Their Continuous Mappings,['63492'],"['80836', '99380', '80837', '151375', '87425', '80879', '80881', '96604', '80880', '80882']"
+80870,Genadi  Ivanadze,Ivane Javakhishvili Tbilisi State University,1980,Georgia,Homology of Partitions with Singularities and Their Exact Versions,"['63492', '80874']",[]
+80871,Suliko  Khajomia,Ivane Javakhishvili Tbilisi State University,1988,Georgia,Homotopy Functors and Their Duals Generated by Homology and Cohomology,['63492'],[]
+80868,Guram  Laitadze,Ivane Javakhishvili Tbilisi State University,1973,Georgia,Duality Theorems for Homology sequences,['63492'],[]
+80878,Leonard  Mdzinarishvili,Ivane Javakhishvili Tbilisi State University,1968,Georgia,"Spectra and Products of Objects with Distinguished Subobjects, and Their Homological and Homotopical Applications",['63492'],"['80884', '80883']"
+80875,Revaz  Ormotsadze,Ivane Javakhishvili Tbilisi State University,1980,Georgia,On Dimension Type Functions of Spaces and Mappings,"['63492', '80873']",[]
+80872,Lamara  Rukhadze,,,None,Local Homology and Cohomology Groups and Their Properties. Duality Relations,['63492'],[]
+80873,Lazare  Zambakhidze,Ivane Javakhishvili Tbilisi State University,1973,Georgia,On a Generalization on the Inductive Dimension,['63492'],"['80874', '264932', '80875', '80887']"
+110548,D.  De-Spiller,Steklov Institute of Mathematics,,Russia,,['74400'],[]
+92942,A. S. Grek,Moscow State Pedagogical Institute,1968,Russia,,['74400'],[]
+87622,Aleksandr Grigorievich Mordkovich,,,None,,['74400'],[]
+87621,V. I. Pupko,Steklov Institute of Mathematics,,Russia,,['74400'],[]
+78339,Vladimir Yurievich Sandberg,Ivanovo State University,,Russia,,['74400'],[]
+12690,Albert S. Schwarz,Lomonosov Moscow State University,1961,Russia,,['74400'],"['12669', '12671', '151621', '14973', '130526', '46293', '103861', '155393', '79739', '151622', '180420', '46615']"
+78338,Ekaterina Sergeevna Tikhomirova,Ivanovo State University,,Russia,,['74400'],[]
+174571,A. G. Vainshtein,Lomonosov Moscow State University,,Russia,,['74400'],[]
+136265,Nikolai Gavrilovich Yarutkin,Ivanovo Pedagogical Institute,1954,Russia,,['74400'],[]
+136264,Dmitry Alekseevich Zakharov,Ivanovo Pedagogical Institute,1955,Russia,,['74400'],[]
+113732,Yu.  Al-Kassas,Lomonosov Moscow State University,1991,Russia,Metrizability and Paracompactness of Probability Measures Spaces,['106990'],[]
+113734,B. V. Atamanyuk,Lomonosov Moscow State University,1993,Russia,Geometric Properties of Infinite Iterations of Certain Covarinat Functors,['106990'],[]
+113720,V. N. Basmanov,Lomonosov Moscow State University,1983,Russia,"Covariant Functors of Finite Degree, Retracts and Dimension",['106990'],[]
+113736,R. B. Beshimov,Lomonosov Moscow State University,1994,Russia,Weakly Separable Spaces and Mappings,['106990'],[]
+113738,Nikolay B. Brodskij,Lomonosov Moscow State University,2000,Russia,Continuous Selections for Multivalued Mappings,['106990'],[]
+113743,G. F. Djabbarov,Lomonosov Moscow State University,2006,Russia,Locally Weakly Separable Spaces and the Functor of Weakly Additive Positive-homogeneous Functionals,['106990'],[]
+43961,Alexander Nikolaevich Dranishnikov,Lomonosov Moscow State University,1983,Russia,Investigation of Hausdorff Compact Spaces by Spectral Methods,"['43962', '106990']","['234540', '68587', '165320', '173385', '109745', '109746', '146323', '200058', '143775']"
+113721,V. I. Golov,Lomonosov Moscow State University,1985,Russia,The Space of Ordered Arcs and Continuous Mappings,['106990'],[]
+108018,A. V. Ivanov,Lomonosov Moscow State University,1978,Russia,Certain Results on Dimension and Cardinal Invariants of Topological Spaces,['106990'],[]
+113731,Rolando  Jiménez Benítez,Lomonosov Moscow State University,1991,Russia,Certain Questions of n-shape Theory,['106990'],['213553']
+108019,A.  Kandil,Lomonosov Moscow State University,1978,Russia,On Dimension of θ-Proximity Spaces,['106990'],[]
+113739,Aleksander V. Karasev,Lomonosov Moscow State University,2000,Russia,On Dimension of Certain Non-metrizable Manifolds,['106990'],[]
+113724,N. L. Koval,Lomonosov Moscow State University,1987,Russia,On Properties of Mappings Related to n-soft Mappings,['106990'],[]
+113726,F. S. Makhmud,Lomonosov Moscow State University,1987,Russia,Absolute Neighborhood Compact Extensors in Dimension n and n-soft Mappings,['106990'],[]
+113735,T.  Makhmud,Lomonosov Moscow State University,1994,Russia,Cardinal Invariants of Spaces of Linked Systems,['106990'],[]
+108020,Z.  Mathia,Lomonosov Moscow State University,1982,Russia,Stability Properties in Infinite-Dimensional Topology,['106990'],[]
+113741,K. V. Matjushichev,Lomonosov Moscow State University,2001,Russia,"E-compactifications, H-closed Extensions and Generalized Proximities",['106990'],[]
+113730,R. E. Mirzakhanyan,Lomonosov Moscow State University,1990,Russia,On Certain Geometric Properties of the Functor of Closed Inclusion Hyperspaces,['106990'],[]
+113727,V. A. Nikiphorov,Lomonosov Moscow State University,1989,Russia,Extension of Mappings Onto Sets of Minimal Codimension,['106990'],[]
+113723,A. A. Odintsov,Lomonosov Moscow State University,1986,Russia,On a Hereditary Normality and Properties Related to Orderability,['106990'],[]
+113733,I. E. Ogorodnikova,Lomonosov Moscow State University,1992,Russia,On Infinite Iterations of Covariant Functors and Certain Properties of Hypermappings,['106990'],[]
+107073,Taras Mykolaovych Radul,Lomonosov Moscow State University,1992,Russia,Infinite-Dimensional Manifolds and Bundles in the Theory of Some Covariant Functors,"['106990', '106991']",['187434']
+113737,Yurii V. Sadovnichy,Lomonosov Moscow State University,1995,Russia,On Metric and Uniform Properties of Probability Measures Spaces,['106990'],[]
+113725,Oleksandr Grygorovych Savchenko,Lomonosov Moscow State University,1987,Russia,Geometric Properties of Functors of Finite Degree and Related Functors,"['106990', '106991']",[]
+108021,Nikolay Vasilievich Savinov,Lomonosov Moscow State University,1977,Russia,On Fully Closed Mappings and Their Applications in Dimension Theory of Bicompacta,['106990'],[]
+113722,M. V. Smurov,Lomonosov Moscow State University,1986,Russia,On Homeomorphisms of Uncountable Functor-powers of Compacta,['106990'],[]
+108022,N. S. Strekolovskaya,Lomonosov Moscow State University,1982,Russia,Spaces with a Generalized Proximity and Proximally Continuous Mappings,['106990'],[]
+113740,G.  Vilialobos,Lomonosov Moscow State University,2000,Russia,Extensor Properties of G-spaces and their Orbit Spaces,['106990'],[]
+113742,A. A. Zaitov,Lomonosov Moscow State University,2004,Russia,Some Properties of Spaces of Signed Measures and of the Functor of Weakly Additive Normed and Order-preserving Functionals,['106990'],[]
+106991,Mykhailo Mykhailovych Zarichnyi,Lomonosov Moscow State University,1983,Russia,Covariant Functors and Linked Systems of Sets,['106990'],"['106992', '106992', '140762', '153869', '171670', '140090', '248053', '107067', '107068', '107064', '107064', '107065', '107071', '107069', '107073', '113725', '143046', '108406', '107070', '107066']"
+113729,T. F. Zhuraev,Lomonosov Moscow State University,1990,Russia,Certain Geometric Properties of the Probability Measures Functor and its Subfunctors,['106990'],[]
+170549,Anatoly  Amirov,Kyrgyz State National University,,Kyrgyzstan,,['106672'],[]
+244154,Asanbai  Arynov,Kyrgyz State National University,,Kyrgyzstan,,['106672'],[]
+171518,K. Ch. Chaadaeva,Kyrgyz State National University,,Kyrgyzstan,,['106672'],[]
+171515,A. I. Chernov,Kyrgyz State National University,,Kyrgyzstan,,['106672'],[]
+170555,E. D. Dujsheev,Kyrgyz State National University,,Kyrgyzstan,,['106672'],[]
+170554,Sultan Zhumaldievich Gonov,Kabardino-Balkarian University,,Russia,,['106672'],[]
+170551,Lev Nikolaevich Gutman,Kabardino-Balkarian University,,Russia,,['106672'],[]
+170552,Ivan Nikitich Lanin,Kabardino-Balkarian University,,Russia,,['106672'],[]
+170553,Adam Maremovich Nakhushev,Kabardino-Balkarian University,,Russia,,['106672'],[]
+171514,Zhansurat Muratovna Natikaeva,Kabardino-Balkarian University,,Russia,,['106672'],[]
+170550,Ivan Aleksandrovich Vakalov,Kabardino-Balkarian University,,Russia,,['106672'],[]
+171512,Ch. Zh. Zhanybekov,Kyrgyz State National University,,Kyrgyzstan,,['106672'],[]
+171513,Musabi Kyasovich Zhekamukhov,Kabardino-Balkarian University,,Russia,,['106672'],[]
+148486,Vitaly Borisovich Korotkov,Steklov Institute of Mathematics,1963,Russia,Direct And Inverse Embedding Theorems For Some Spaces of Abstract Set Functions,['111731'],"['172236', '165116']"
+106613,Vladimir Aleksandrovich Andrunakievich,Lomonosov Moscow State University,1947,Russia,,"['53008', '76797']","['111479', '111480', '106616']"
+151954,Viachesalv Aleksandrovich Artamonov,Lomonosov Moscow State University,1991,Russia,"Projective modules, groups and Lie algebras",['53008'],['113262']
+134414,Tatiana Maksimilianovna Baranovich,Lomonosov Moscow State University,1965,Russia,,['53008'],[]
+95532,Valentin Danilovich Belousov,Lomonosov Moscow State University,1958,Russia,Studies of Quasigroups and Loops,['53008'],"['150573', '150594', '150575', '150576', '150577', '95533', '150571', '150595', '150599', '150578', '150597', '150591', '150596', '150590', '150572', '150593', '104535', '150598', '150574', '150579', '150600', '150592']"
+55501,Adalbert A. Bovdi,Lomonosov Moscow State University,1963,Russia,,['53008'],"['56470', '56492', '57473', '92013', '72172', '56474', '57066', '57474', '56473', '92441', '57468', '57022', '57481']"
+183077,Mark  Burgin,Lomonosov Moscow State University,1971,Russia,,['53008'],[]
+53007,Sergei Nikolaevich Chernikov,Lomonosov Moscow State University,1940,Russia,Infinite Locally Soluble Groups,['53008'],"['58902', '137886', '93910', '100709', '125753', '104240', '136733', '127199', '13985', '57662', '232881', '137885']"
+62201,Béla  Csákány,Lomonosov Moscow State University,1962,Russia,On the Equivalence of Primitive Classes of Algebraic Systems,"['53008', '179075']","['180799', '178798', '180800', '178826', '178766', '180544', '178442', '179253', '37122', '62215', '179251', '90681']"
+131714,"Evgenii (Eugen, Eino)  Gabovich (Gabowitsch, Gabovits)",Lomonosov Moscow State University,1968,Russia,Uporiadochennye polugruppy (Ordered semigroups),['53008'],[]
+146729,Petr Abramovich Golberg,Lomonosov Moscow State University,1945,Russia,,['53008'],[]
+122129,Oleg Nikolaevich Golovin,Lomonosov Moscow State University,,Russia,Nilpotent Products of Groups,['53008'],"['137888', '106693', '79255', '135939']"
+129907,Mark Iosifovich Graev,Lomonosov Moscow State University,1947,Russia,Free Topological Groups,['53008'],[]
+130479,Jaak  Hion,Lomonosov Moscow State University,1955,Russia,Rings normed by the aid of semigroups,['53008'],['44668']
+179777,Awad A. Iskander,Lomonosov Moscow State University,1965,Russia,Correspondence Lattices of Universal Algebras,['53008'],[]
+134617,L. N. Karolinskaya,Lomonosov Moscow State University,1965,Russia,,['53008'],[]
+165868,Vladimir Mikhailovich Kurochkin,Lomonosov Moscow State University,1949,Russia,,['53008'],[]
+799,Alexander  Lichtman,Lomonosov Moscow State University,,Russia,,['53008'],[]
+139239,Shaoxue  Liu,Lomonosov Moscow State University,1956,Russia,,['53008'],"['162957', '141601', '113173']"
+110081,Leonid Efimovich Sadovskii,Lomonosov Moscow State University,1941,Russia,,['53008'],[]
+180498,Krasarm Konstantinovich Shchukin,Lomonosov Moscow State University,1962,Russia,On the theory of radicals in groups,['53008'],[]
+13726,Anatoly Illarionovich Shirshov,Lomonosov Moscow State University,1953,Russia,Some problems on the theory of non-associative rings and algebras,['53008'],"['62050', '23021', '24209', '99847', '99925', '96270', '115429', '99249', '13468', '99186', '99248', '98744', '96324', '99333', '52166', '101987', '90738']"
+107236,Vladimir Ivanovich Shneidmyuller,Lomonosov Moscow State University,1941,Russia,,['53008'],[]
+114762,Lev Anatol'evich Skornyakov,Lomonosov Moscow State University,1950,Russia,Alternative skew-fields and alternative planes,['53008'],"['151467', '65093', '162498', '144240', '118914']"
+212586,Adam  Sulinski,Lomonosov Moscow State University,1957,Russia,Some problems of the general radical theory (In Russian),['53008'],"['214241', '214247', '207187', '214245', '214244', '214246', '214242', '214243']"
+134046,Ivan Ivanovich Valutse,Lomonosov Moscow State University,1963,Russia,,['53008'],[]
+116431,Aleksandr Ivanovich Vikhrov,Lomonosov Moscow State University,1941,Russia,,['53008'],[]
+104251,Naum Yakovlevich Vilenkin,Lomonosov Moscow State University,1950,Russia,,['53008'],"['164528', '189297', '110685', '110686', '155790']"
+106302,Sergei Trofimovich Zavalo,Lomonosov Moscow State University,1952,Russia,,['53008'],[]
+6355,Vladimir Grigorevich Boltyanskii,Lomonosov Moscow State University,1948,Russia,,['49073'],"['248773', '128750', '89269', '97036', '60279', '24267', '48562']"
+146875,Yuri S. Ledyaev,Moscow Institute of Physics and Technology,1980,Russia,On Problems of Pursuit And Evasion In Differential Games With Incomplete Information,['108599'],[]
+108665,Nikolai Khristovich Rozov,Lomonosov Moscow State University,1964,Russia,,['108599'],"['87494', '108836']"
+257295,Evgenii Alekseevich Barbashin,Lomonosov Moscow State University,1943,Russia,Some questions of generalized dynamic systems theory,['31014'],['162080']
+99285,Boris Fedorovich Bylov,Lomonosov Moscow State University,1954,Russia,,['31014'],[]
+134969,Vladimir Mikhailovich Cheresiz,Lomonosov Moscow State University,1968,Russia,,['31014'],[]
+134047,Boris Pavlovich Demidovich,Lomonosov Moscow State University,1936,Russia,,['31014'],[]
+99460,Leonid Semenovich Gnoenskii,Lomonosov Moscow State University,1963,Russia,,['31014'],[]
+99286,Vadim Matveevich Grobman,Lomonosov Moscow State University,1956,Russia,,['31014'],[]
+14236,Aristide  Halanay,Lomonosov Moscow State University,1952,Russia,,['31014'],"['185679', '152900', '145888']"
+139737,Yurii Aleksandrovich Klokov,,,None,,['31014'],[]
+135835,I. M. Lavrentiev,Lomonosov Moscow State University,1967,Russia,,"['31014', '134048']",[]
+101292,Sergey Alekseevich Maksimov,Lomonosov Moscow State University,1968,Russia,Stabilization of Solutions of Nonstationary Equations in Banach Space and Its Applications,['31014'],[]
+134970,K. S. Malii,Lomonosov Moscow State University,1966,Russia,,['31014'],[]
+135637,Yury Valentinovich Malyshev,Lomonosov Moscow State University,1965,Russia,,['31014'],[]
+134971,Vladimir Mikhaĭlovich Millionshchikov,Lomonosov Moscow State University,1968,Russia,To the Theory of Systems of Linear Ordinary Differential Equations,['31014'],['143618']
+134048,Mordukhai Moiseevich Vainberg,Lomonosov Moscow State University,1940,Russia,,['31014'],"['135262', '136287', '135835', '134973']"
+11678,Robert E. Vinograd,Lomonosov Moscow State University,1960,Russia,,['31014'],['11680']
+136933,Dzhumbar Polikarpovich Zeragiya,Ivane Javakhishvili Tbilisi State University,1963,Georgia,,['31014'],[]
+17410,Dmitri Victorovich Anosov,Lomonosov Moscow State University,1961,Russia,,['49073'],"['15003', '159046', '17411']"
+267432,Arkadii Alekseevich Chikrii,,,None,Linear Discrete survival games.,"['136937', '136937', '49073']",['267431']
+36427,Revaz Valerianovich Gamkrelidze,,,None,,['49073'],"['49056', '53114']"
+62887,Mikhail Mikhailovich Postnikov,,,None,,['49073'],"['56803', '100576', '94654', '20086', '55147', '94653', '15704', '93277', '40379', '100223']"
+102190,Mikhail Ilyitch Zelikin,Lomonosov Moscow State University,,Russia,On Invariant Curves of Almost Identity Maps,['49073'],"['102222', '270066']"
+107585,Elena Alekseevna Bolshakova,Lomonosov Moscow State University,2006,Russia,On Combinatorial Structure of Nonprimitive Parallelohedra of the First Type,['86715'],[]
+88567,F. V. Botya,Steklov Institute of Mathematics,,Russia,,['86715'],[]
+88565,C. A. Chepanov,Steklov Institute of Mathematics,,Russia,,['86715'],[]
+88569,Geza.  Csóka,Steklov Institute of Mathematics,,Russia,,['86715'],[]
+88568,P. V. Makarov,Steklov Institute of Mathematics,,Russia,,['86715'],[]
+67831,Konstantin  Rybnikov,Queen's University at Kingston,2000,Canada,Polyhedral Partitions and Stresses,"['67811', '86715']",['127853']
+88566,N. M. Vetchinkin,Steklov Institute of Mathematics,,Russia,,['86715'],[]
+13982,Andrei Andreevich Markov,St. Petersburg State University,1921,Russia,,[],"['83475', '168560', '49528', '168510', '168404', '168219', '14126', '168222', '168171', '168895', '89434', '168221', '106671', '168220', '132861', '30197']"
+133485,Viktor Petrovich Chernov,St. Petersburg State University,1973,Russia,On Constructive Topological Spaces with Sheaf-like Structure and Their Mappings,['106671'],[]
+131769,Gennadi Valentinovich Davydov,Steklov Institute of Mathematics,1969,Russia,,['106671'],"['134183', '132883']"
+133484,Robert Isaakovich Freidzon,Steklov Institute of Mathematics,1973,Russia,Restricted Approximations of Recursive Predicates,['106671'],[]
+79318,Michael  Gelfond,Steklov Institute of Mathematics,1974,Russia,,['106671'],"['224911', '131839', '179335', '170586', '131854', '224912', '131853', '74862', '165824', '92521', '166786']"
+133434,Yakov Yakovlevich Golota,Steklov Institute of Mathematics,1971,Russia,Establishing Derivability in Constructive Propositional Calculus by Taking into Account Deep Connections,['106671'],[]
+132881,Alexander Vladimirovich Idelson,St. Petersburg State University,1965,Russia,Calculi of Constructive Logic with Subordinate Variables,['106671'],[]
+132773,Nikolai Kirillovich Kosovski,Steklov Institute of Mathematics,1978,Russia,Normed Decidable Boolean Algebras and Integrable Constructs,['106671'],"['132838', '132839', '134181', '132956', '133430', '134123', '134122', '134179', '134185']"
+118366,Vladimir  Lifschitz,Steklov Institute of Mathematics,1969,Russia,Constructive Counterparts of Gödel's Completeness Theorem,['106671'],"['131791', '131794', '131793', '131788', '131792', '153914', '131789', '153912', '131790', '202536']"
+134212,Maurice  Margenstern,Université Paris Diderot - Paris 7,1974,France,Constructive Topological Properties of Spaces of Almost-Periodic Functions,['106671'],"['134213', '134214']"
+41889,Sergei Yurievich Maslov,St. Petersburg State University,1964,Russia,Formal Mechanisms for Specifying Recursively Enumerable Sets,['106671'],"['19390', '41873', '132775', '133487']"
+41873,Yuri Vladimirovich Matiyasevich,Steklov Institute of Mathematics,1970,Russia,Simple Examples of Undecidable Canonical Calculi,"['41889', '106671']","['131818', '111297', '41884', '131824', '41771']"
+133428,Vilius  Matulis,St. Petersburg State University,1964,Russia,Sequent Versions of Classical Predicate Calculus with a Unique Inference Tree,['106671'],['134085']
+41775,Grigori Efroimovich Mints,St. Petersburg State University,1965,Russia,On Predicate and Operator Variants for Building Theories of Constructive Mathematics,['106671'],"['134573', '132837', '206500', '133483', '134574', '134085', '111467', '39227', '133482', '265988', '38093']"
+132772,Vladimir Pavlovich Orevkov,St. Petersburg State University,1966,Russia,Constructive Mappings of Finite Polyhedra,['106671'],"['132837', '132882']"
+134184,Viktor Afanasjevich Shurygin,Steklov Institute of Mathematics,1968,Russia,Constructive Sets with Equality and Their Mappings,['106671'],[]
+85166,Anatol Olesevich Slissenko,Steklov Institute of Mathematics,1967,Russia,Regulators of Convergence of Constructive Sequences and Regulators of Continuity of Constructive Functions,['106671'],"['134423', '134425', '108398', '133652', '134480', '134426', '85161']"
+133482,Sergei Vladimirovich Soloviev,Steklov Institute of Mathematics,1984,Russia,Applications of Logical Calculi to the Study of Natural Transformations in Categories,"['106671', '41775']","['138262', '142263', '155681', '162102', '141460']"
+132955,Irina Nikolaevna Vrublevskaya,Steklov Institute of Mathematics,1953,Russia,On Geometric Equivalence of Trajectories of Dynamical Systems,['106671'],[]
+132774,Igor Dmitrievich Zaslavski,St. Petersburg State University,1963,Russia,Some Properties of Constructive Real Numbers and Constructive Functions,['106671'],"['136770', '136768', '136767', '136769', '134118', '136765', '134119', '136766']"
+184926,Roman  Mikhailov,Steklov Institute of Mathematics,2003,Russia,"Filtrations of homology, groups, and spaces of links",['43962'],[]
+136735,Victor Vladimirovich Martynyuk,Steklov Institute of Mathematics,1963,Russia,,['106676'],[]
+150311,Valentin Vasilʹevich Voevodin,Lomonosov Moscow State University,1969,Russia,Solving the Complete Eigenvalue Problem using Power Methods,['106676'],"['154029', '150312']"
+135938,I. B. Zadyhailov,Steklov Institute of Mathematics,1964,Russia,,['106676'],[]
+108397,Arkadii Anatolievich Mal'tsev,Steklov Institute of Mathematics,1960,Russia,,['106295'],['110556']
+110682,V. I. Meliya,Steklov Institute of Mathematics,,Russia,,['106295'],[]
+108396,Nikolai Terentievich Tynyanskii,Lomonosov Moscow State University,1960,Russia,Homological Properties of Location of Arbitrary Sets,['106295'],[]
+127937,Sergey Apetnakovich Antonyan,Lomonosov Moscow State University,1981,Russia,Equivariant Retracts and Embeddings,['93970'],"['206898', '200867']"
+127677,Doitchin Bogdanov Doitchinov,Lomonosov Moscow State University,1961,Russia,,['93970'],"['189536', '126375']"
+136358,Pavel  Gevorgyan,Lomonosov Moscow State University,1989,Russia,,['93970'],[]
+97912,Vladimir Ivanovich Kuz'minov,Lomonosov Moscow State University,1964,Russia,,['93970'],"['97425', '234177', '130643', '148591', '138706']"
+96297,Boris Trifonovich Levshenko,Lomonosov Moscow State University,1961,Russia,Infinite-Dimensional Spaces,['93970'],[]
+135981,Yuri Yuri Orevkov,Lomonosov Moscow State University,1965,Russia,,['93970'],[]
+83278,Evgenij Grigorjevich Skljarenko,Lomonosov Moscow State University,,Russia,,['93970'],"['161527', '83269']"
+97806,Evgeny Mikhailovich Sklyarenko,Lomonosov Moscow State University,1961,Russia,,['93970'],[]
+97913,L.  Zambikhidze,Lomonosov Moscow State University,,Russia,,['93970'],[]
+97911,Aleksandr Vladimirovich Zarelua,Lomonosov Moscow State University,1962,Russia,,['93970'],[]
+108187,Victor  Chepoi,Moldova State University,1987,Moldova,Convexity in Graphs,['108166'],"['164469', '117231', '171043', '117232', '200981', '131294']"
+108631,Vladimir Yakovlevich Goldin,,,None,,['58042'],"['206535', '36368']"
+96539,A. V. Goncharskii,,,None,,['58042'],['211551']
+98276,Vladimir Aleksandrovich Il'in,Lomonosov Moscow State University,1953,Russia,Electromagnetic waves' difraction on some inhomogeneities,"['58042', '58042']","['98275', '24137', '101818', '193993', '113728']"
+69118,Dmitrii P. Kostomarov,,,None,,['58042'],[]
+98683,Yuri A. Kriksin,Lomonosov Moscow State University,1985,Russia,,['58042'],[]
+173091,Anna  Pergament,Keldysh Institute of Applied Mathematics,1965,Russia,Asymptotics of the transport equation,['58042'],"['180755', '180753', '180756', '180757', '246143', '180752']"
+31066,Alexander Andreevitch Samarskii,Lomonosov Moscow State University,1948,Russia,On the Influence of Eigenfrequency Fixation of Closed Volumes,['58042'],"['200517', '108006', '108068', '223966', '98562', '135142', '99480', '108069', '17340', '187063', '121279', '58218', '255341', '129030', '58180', '34026', '98339']"
+63886,Alexei Georgievich Sveshnikov,Lomonosov Moscow State University,1953,Russia,,['58042'],"['100629', '150312']"
+17030,Adelaida Borisovna Vasiléva,Lomonosov Moscow State University,1951,Russia,,['58042'],"['29443', '137142']"
+91057,Vladimir Markovich Volosov,Lomonosov Moscow State University,1956,Russia,,['58042'],"['100630', '100631', '17033']"
+29460,Anatoly G. Yagola,,,None,,['58042'],['225373']
+130939,Sergey Victorovich Bochkarev,Lomonosov Moscow State University,1969,Russia,On Fourier rows in Haar's system,['110085'],[]
+187479,Mikhail  Dyachenko,Lomonosov Moscow State University,1981,Russia,Local  properties of functions and expansions in the Fourier series,['110085'],[]
+130940,Boris Ivanovich Golubov,Lomonosov Moscow State University,1964,Russia,,['110085'],[]
+112127,Boris Sergeevich Kashin,Steklov Institute of Mathematics,1976,Russia,On Some Properties of Functional and Orthogonal Series,['110085'],"['148888', '140785', '140580']"
+142414,Yury Evgenyevich Kuprikov,Lomonosov Moscow State University,1992,Russia,,['110085'],[]
+112128,Evgenii Mikhailovich Nikishin,Steklov Institute of Mathematics,,Russia,,['110085'],['158002']
+103090,Alexander Moiseevich Olevskii,Lomonosov Moscow State University,,Russia,,['110085'],"['148681', '148682', '148679', '103105', '148684', '148680', '148683', '132702', '255327', '148685']"
+130941,Aleksandr Iosifovich Rubinshtein,Lomonosov Moscow State University,1965,Russia,,['110085'],[]
+24269,Elenora A. Storozhenko,Lomonosov Moscow State University,,Russia,,['110085'],"['157783', '89952']"
+129812,Nurlan  Temirgaliyev,Steklov Institute of Mathematics,1991,Russia,,['110085'],"['144433', '144431', '144430', '144432', '144114']"
+56803,Andrey  Bolibrukh,Lomonosov Moscow State University,1977,Russia,On the Fundamental Matrix of a Pfaffian System of Fuchsian Type,"['62887', '95090']",['56935']
+171598,Michail Mark Graev,,,None,Estimation of the number of invariant Einstein metrics on homogeneous spaces,"['79852', '95090']",[]
+98294,Svetlana Ivanovna Yablokova,Lomonosov Moscow State University,1982,Russia,,['95090'],[]
+76407,Oleg Nikolaevich Karpenkov,Lomonosov Moscow State University,2005,Russia,"On Multidimensional Continued Fractions of Klein Model: Classification of Two-Dimensional Faces, Algorithms, Examples","['17493', '98449']",[]
+33517,Gregory A.  Freiman,Moscow State Pedagogical Institute,1965,Russia,Structural Theory of Set Addition,"['56858', '85950', '29696']","['46527', '103098']"
+23172,Ilya I. Piatetski-Shapiro,Moscow State Pedagogical Institute,1954,Russia,,['29696'],"['147559', '147560', '39120', '30511', '6189', '37489', '39133', '19227', '39038', '41006', '147561', '55151', '105760', '23171', '45083']"
+104563,Emiliano  Aparicio,Universidad de Bilbao,1973,Spain,Propiedades extremales de los polinomios comn coeficientes enteros y aproximación de las funciones mediante dichos polinomios.,"['56858', '95452']","['131911', '131910']"
+91331,Marat Andreevich Evgrafov,Steklov Institute of Mathematics,,Russia,,['56858'],[]
+25852,Naum Iljich Feldman,Lomonosov Moscow State University,,Russia,,['56858'],"['46511', '130874']"
+189474,Akad Ibrahim Ibragimov,,,None,On completeness of some systems of analytic functions,['56858'],['184376']
+56877,Nikolai Mikhailovich Korobov,Lomonosov Moscow State University,1948,Russia,,['56858'],"['87931', '197028', '206504']"
+153092,Aleksei Fedorovich Leont'ev,,,None,Differential-difference Equations,"['153091', '56858']","['232637', '216168', '216598', '216225', '162106', '226878', '250646']"
+85950,Aleksei Georgievich Postnikov,Lomonosov Moscow State University,1949,Russia,On the Differential Independence of Dirichlet Series,['56858'],"['33517', '134976', '134412']"
+56878,Andrei Borisovich Shidlovskii,Lomonosov Moscow State University,,Russia,,['56858'],"['110330', '83363', '92517', '110331']"
+80179,Alexander Dmitrievich Soloviev,Lomonosov Moscow State University,1955,Russia,,['56858'],"['80178', '167314']"
+97759,Victor Solomonovich Videnskii,Lomonosov Moscow State University,1950,Russia,,['56858'],[]
+99477,Leonid  Vulakh,Lomonosov Moscow State University,1971,Russia,Markov Spectra of Imeginaly Quadratic Fields,['56858'],[]
+93308,Mikhail Hatskelevich Zakhar-Itkin,Lomonosov Moscow State University,1965,Russia,Asymptotic formulas and estimates in the theory of integral and differential equations,['56858'],[]
+154469,Eduard Ashotovich Danielian,Lomonosov Moscow State University,1973,Russia,System with Head-of-the-line Priority and Unsafe Server,"['120974', '17513']",[]
+30960,Bronius  Grigelionis,Lomonosov Moscow State University,1963,Russia,Limit Theorems for Sums of Step Random Processes,['17513'],"['94347', '94341', '94346', '94345', '94348', '94350', '94356', '94340', '94357', '94317', '94355', '94349', '94342', '94339', '94344', '94318', '94338', '94316', '94343']"
+29838,Dieter  König,Humboldt-Universität zu Berlin,1964,Germany,Verallgemeinerungen der Formein von Engset und Cohen,['17513'],"['35437', '129530', '90021', '52306']"
+138976,Vladimir Semenovich Korolyuk,Kiev State University,1954,Ukraine,Kolmogorov-Smirnov tests,['17513'],"['140483', '140473', '187056']"
+61527,Alexander  Korostelev,Lomonosov Moscow State University,1975,Russia,Probabilistic Solutions for Boundary Value Problems,"['17513', '61504']","['83771', '83770', '83769']"
+95100,Tadeush Pavlovich Mar'yanovich,Institute of Mathematics of National Academy of Sciences of Ukraine,1963,Ukraine,,['17513'],[]
+156581,David  Mejzler,,,None,,['17513'],[]
+135941,T. I. Nasirova,Tashkent State University,1964,Uzbekistan,,['17513'],[]
+190692,Elisaveta Elissaveta Pancheva,"Institute of Mathematics, Bulgarian Academy of Sciences",1996,Bulgaria,Limit theorems for maxima of independent random vectors,['17513'],"['191897', '190693']"
+101282,János D. Pintér,Lomonosov Moscow State University,1982,Russia,Stochastic / Global Optimization,"['17513', '101278']",[]
+129129,Gleb Nestorovich Sakovich,Kiev State University,1956,Ukraine,Multivariate Stable Distributions,['17513'],[]
+58687,Yurii Petrovich Studnev,Ivan Franko National University of Lviv,1953,Ukraine,,['17513'],[]
+85069,Domokos  Szász,Lomonosov Moscow State University,1971,Russia,The Asymptotic Behaviour of Sums of a Random Number of Independent Random Variables,['17513'],"['146426', '183834', '54848', '100180', '85066', '146427', '146428']"
+122637,Igor Alexeevich Ushakov,Moscow Aviation Institute,1967,Russia,Reliability Theory,['17513'],"['133097', '133098', '133145', '133146', '133144', '133105', '133140', '133142', '133141', '133041', '133101', '133100', '133102', '133103', '133104', '133108', '133109', '133110', '133111', '133143', '133112', '133113', '133115', '133116', '133117', '133114', '133040', '133118', '133119', '133120', '133121', '133122', '133123', '133124', '133126', '133125', '133127', '133128', '133130', '133129', '133131', '133132', '133133', '133134', '133135', '133147', '133136', '133137', '133138', '133139', '133099', '133096', '133148', '133107', '133106']"
+119662,Larisa Vitalievna Aparina,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+119669,Igor Azrielevich Berezansky,Lomonosov Moscow State University,1967,Russia,,['107048'],[]
+140073,G. Kh. Berman,Moscow State Pedagogical Institute,1964,Russia,Functors in Category of Nuclear (F) Spaces,['107048'],[]
+119663,D. V. Botnaru,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+55889,Alexander S. Dynin,Lomonosov Moscow State University,1958,Russia,,['107048'],['77825']
+118978,V. P. Fedorova,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+119664,V. B. Gisin,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+119665,P. S. Kenderov,Moscow State Pedagogical Institute,1970,Russia,Locally Convex Vector Groups,['107048'],['216442']
+118979,V. E. Kholodovsky,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+118977,Vladimir L'vovich Levin,Lomonosov Moscow State University,1965,Russia,,['107048'],[]
+188873,Anatoli Evgen'evich Merzon,Moscow State Pedagogical Institute,1981,Russia,General boundary value problem for the Helmholtz equation in a plane angle,['107048'],[]
+119666,Grigory Aleksandrovich Merzon,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+119667,V. S. Sekovanov,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+59714,Arkady Aleksandrovich Tempelman,Moscow State Pedagogical Institute,1962,Russia,,['107048'],['59721']
+119668,Yuriy Nikolaevich Vladimirsky,Moscow State Pedagogical Institute,,Russia,,['107048'],[]
+87139,Stanislav  Kolenikov,The University of North Carolina at Chapel Hill,2005,UnitedStates,,"['47222', '87137']",[]
+131078,Alexey A. Brudno,Moscow Institute of Electronics and Mathematics,1978,Russia,Entropy and Kolmogorov Complexity,['17491'],['169753']
+263179,Michael  Jakobson,Lomonosov Moscow State University,1970,Russia,On topological classification of smooth endomorphisms of the circle and of the Riemann sphere,['17491'],"['34015', '267320']"
+191595,Andrey Vasilévich Kochergin,Lomonosov Moscow State University,1974,Russia,On mixing properties of some classes of flows with   invariant measure.,"['10482', '17491']",[]
+64569,Vadim Alexandrovich Malyshev,All-Russian Scientific Research Institute of Automation (VNIIA),1967,Russia,Coding Problems,"['65170', '17491']","['132454', '132448', '132451', '132446', '132450', '132456', '132440', '70716', '132449', '132443', '70715', '132458', '132453', '65137', '132447', '132457', '132442', '132649', '132452', '70459', '132441', '122685', '132445', '132455', '132444']"
+45186,Maciej  Wojtkowski,Lomonosov Moscow State University,1978,Russia,,['17491'],['45185']
+111782,Peter G. Gyarmati,Eötvös Loránd University,1981,Hungary,Adaptiv Controls in Operating Systems,"['17492', '42570']",[]
+172423,Francesca  Aicardi,Lomonosov Moscow State University,1996,Russia,,['17493'],[]
+104955,V. I. Bachtin,Lomonosov Moscow State University,,Russia,,['17493'],[]
+149090,Ilya Aleksandrovich Bogaevsky,Lomonosov Moscow State University,1990,Russia,Legendrian Singularities And Their Transitions In Hamiltonian Systems,['17493'],[]
+79232,Rivkut  Bogdanov,Lomonosov Moscow State University,,Russia,,['17493'],[]
+95098,Gianmarco  Capitanio,Université Paris Diderot - Paris 7,2004,France,Tangential families and minimax solutions to Hamilton-Jacobi equations,['17493'],[]
+172420,Yurii Vitalievich Chekanov,Lomonosov Moscow State University,1997,Russia,,['17493'],[]
+52911,Sergei Vladimirovich Chmutov,Lomonosov Moscow State University,1985,Russia,Monodromy Groups of Critical Points of Functions,"['38499', '17493']","['240659', '56265']"
+170625,Aleksey Aleksandrovich Davydov,Lomonosov Moscow State University,1983,Russia,,['17493'],"['180805', '181162', '181164', '170626', '190559', '181163']"
+172422,Emmanuel  Ferrand,Lomonosov Moscow State University,1997,Russia,,['17493'],[]
+118189,Vladimir Vladimirovich Fock,Institute of Theoretical and Experimental Physics,1993,Russia,Chern-Simons Quantum Field Theory and Applications,"['79852', '17493']","['182572', '270942']"
+172059,Oleg Gennadievich Galkin,Lomonosov Moscow State University,1992,Russia,,['17493'],[]
+58475,Mauricio Demian Garay,Université Paris Diderot - Paris 7,2001,France,Théorie classique et Legendrienne des points d'aplatissements évanescents des courbes planes et spatiales,['17493'],[]
+32851,Alexander Borisovich Givental,Lomonosov Moscow State University,1987,Russia,Singularities of Solutions of Hamilton-Jacobi Equations in Variational Problems with Inequality Constraints,['17493'],"['144548', '76908', '31744', '38092', '93518', '194566', '93517']"
+91181,Victor Vladimirovich Goryunov,,,None,Surface projection singularities,['17493'],['91209']
+55263,Sabir Medzhidovich Gusein-Zade,Lomonosov Moscow State University,1975,Russia,,"['55147', '17493']","['174175', '198464', '246849', '171961']"
+88314,Emil Ivanov Horozov,Lomonosov Moscow State University,1978,Russia,Bifurcations of Symmetric Planar Vector Fields,"['17493', '80854']","['250469', '133716', '250470', '250471', '169531']"
+171955,Maksim Eduardovich Kazaryan,Lomonosov Moscow State University,1991,Russia,,['17493'],[]
+91904,Boris A. Khesin,Lomonosov Moscow State University,1990,Russia,Normal Forms and Versal Deformations of Evolution Differential Equations,['17493'],"['130196', '239020', '209252', '135088', '220221']"
+49054,Askold Georgievich Khovanskii,Steklov Institute of Mathematics,1973,Russia,Representability of Function in Quadratures,['17493'],"['86765', '165316', '116780', '266424', '56788', '68337', '90278', '156809', '189203', '259996', '64006', '165626', '165741', '165741']"
+56743,Anatolii Georgievich Kushnirenko,Lomonosov Moscow State University,,Russia,,['17493'],"['56788', '59395']"
+171953,Elena Evgenievna Landis,Lomonosov Moscow State University,1983,Russia,,['17493'],[]
+206519,Sergei Konstantinovich Lando,Lomonosov Moscow State University,1986,Russia,Deformations of differentials forms,['17493'],[]
+171956,Andrei Mikhailovich Leontovich,Lomonosov Moscow State University,1970,Russia,,['17493'],[]
+59395,Vadim I. Matov,Lomonosov Moscow State University,1983,Russia,Singularities of extreme functions,"['17493', '56743']",[]
+172421,Mikhail Borisovich Mishustin,Lomonosov Moscow State University,2002,Russia,,['17493'],[]
+49058,Jacques-Olivier  Moussafir,Université de Paris,2000,France,Voiles et Polyèdres de Klein. Géométrie Algorithmes et Statistiques.,"['17493', '42009']",[]
+172060,Oleg Mikhailovich Myasnichenko,Lomonosov Moscow State University,1994,Russia,,['17493'],[]
+172600,Fabien  Napolitano,Lomonosov Moscow State University,,Russia,,['17493'],[]
+131931,Nikolai Nikolaevich Nekhoroshev,Lomonosov Moscow State University,1973,Russia,On Behavior of Hamiltonian Systems Close to Integrable Ones,['17493'],[]
+176393,Adriana  Ortiz-Rodríguez,,,None,Géométrie différentielle projective des surfaces algébriques réelles,['17493'],[]
+53194,Petr Evgen\'evich Pushkar\',Lomonosov Moscow State University,1998,Russia,Periodic Trajectories of Billiard Dynamical Systems,['17493'],[]
+172061,Aleksandr Kh. Rakhimov,Lomonosov Moscow State University,1995,Russia,,['17493'],[]
+99437,Ernesto  Rosales González,Steklov Institute of Mathematics,1991,Russia,On the Growth of the Intersection Numbers of Submanifolds under the Action of Dynamical Systems in Compact Manifolds and the Spaces $C^m$ and $R^m$,['17493'],[]
+79306,Inna  Scherbak,Lomonosov Moscow State University,1986,Russia,Lagrangian and Legendrian boundary singularities,['17493'],[]
+172062,Vyacheslav Dmitrievich Sedykh,Lomonosov Moscow State University,1982,Russia,Singularities of Convex Hulls,['17493'],[]
+79278,Mikhail Borisovich Sevryuk,Lomonosov Moscow State University,1988,Russia,Reversible Dynamical Systems,['17493'],[]
+20563,Boris  Shapiro,Stockholm University,1990,Sweden,"Disconjugate Linear Ordinary Differential Equations, Flag Varieties and Classification of Symplectic Leaves in Several Kac-Moody and Gelfand-Dikii Algebras",['17493'],"['174105', '20597', '116725', '116780', '192700', '183949', '234802', '234344', '203854', '183806', '100896']"
+61343,Mikhail Zalmanovich Shapiro,Lomonosov Moscow State University,1992,Russia,Nonoscillating Differential Equations,['17493'],"['235109', '235108', '249566']"
+79277,Alexander  Shoshitaishvili,Lomonosov Moscow State University,1975,Russia,Local Algebras of Singularities of Maps,['17493'],[]
+54809,Ricardo  Uribe-Vargas,Université Paris Diderot - Paris 7,2001,France,Symplectic and Contact Singularities in Differential Geometry of Curves and Surfaces,['17493'],[]
+38499,Alexander Nicholaevich Varchenko,Lomonosov Moscow State University,1974,Russia,,['17493'],"['52911', '132126', '129332', '164699', '72797', '117966', '25104', '23332']"
+96967,Victor A. Vassiliev,Lomonosov Moscow State University,1982,Russia,,['17493'],"['96986', '113539']"
+103447,Vladimir M. Zakalyukin,Lomonosov Moscow State University,1977,Russia,Lagrangian and Legendrian singularities,['17493'],"['168739', '168604', '100896']"
+49528,Albert Grigor'evich Dragalin,Lomonosov Moscow State University,1968,Russia,Constructive Transfinite Numbers and a Justification of the Constructive Selection Principle,['13982'],"['83475', '49538', '199950', '168404', '168403', '168219', '168895', '168214', '49541', '168212', '168213']"
+193173,Antonis  Achilleos,City University of New York,2015,UnitedStates,Interactions and Complexity in Multi-Agent Justification Logic,"['83475', '53715']",[]
+170545,Evangelia  Antonakos,City University of New York,2013,UnitedStates,Forms of Generic Common Knowledge,['83475'],[]
+95820,Yegor Nikolayevich Bryukhov,City University of New York,2005,UnitedStates,Integration of Decision Procedures into High-Order Interactive Provers,['83475'],[]
+30452,Jennifer M. Davoren,Cornell University,1998,UnitedStates,Modal Logics for Continuous Dynamics,"['6458', '83475']",[]
+162721,Walter  Dean,City University of New York,2010,UnitedStates,Epistemic paradox and explicit modal logic,['83475'],[]
+126964,Srikanth  Gottipati,City University of New York,2008,UnitedStates,Finsler Optimal Control Theory,"['83475', '6458']",[]
+115651,Giorgi K. Japaridze,Lomonosov Moscow State University,1987,Russia,Modal-Logical Means of Investigating Provability,"['83475', '82945']",[]
+97268,Nikolay Vladimirovich Krupski,Lomonosov Moscow State University,2006,Russia,Some Algorithmic Questions for Formal Systems with Proof Internalization Property,"['17546', '83475']",[]
+163400,Hidenori  Kurokawa,City University of New York,2012,UnitedStates,Tableaux and hypersequents for modal and justification logics,"['83475', '60075']",[]
+118629,Roman  Kuznets,City University of New York,2008,UnitedStates,Complexity Issues in Justification Logic,['83475'],[]
+30454,Robert  Milnikel,Cornell University,1999,UnitedStates,Nonmonotic Logic: A Monotinic Approach,"['6458', '83475']",[]
+73590,Pavel G. Naumov,Cornell University,1998,UnitedStates,Formalizing Reference Types in NuPRL,"['9041', '83475']",[]
+138291,Natalia  Novak,City University of New York,2009,UnitedStates,Computer-aided Reasoning About Knowledge and Justifications,['83475'],[]
+49551,Nikolay Anatol'evich Pankrat'ev,Lomonosov Moscow State University,1990,Russia,On Predicate Calculus and Arithmetic with Provability Operator,"['17546', '83475']",[]
+95816,Mati Reinovich Pentus,Lomonosov Moscow State University,1996,Russia,Lambek Calculus and Formal Grammars,['83475'],"['168399', '140581', '204693']"
+226438,Konstantinos  Pouliasis,City University of New York,2017,UnitedStates,"Relating Justification Logic Modality and
+Type Theory in Curry-Howard fashion.","['83475', '53715']",[]
+203282,Tudor  Protopopescu,City University of New York,2016,UnitedStates,Three Essays in Intuitionistic Epistemology,['83475'],[]
+121285,Bryan  Renne,City University of New York,2008,UnitedStates,Dynamic Epistemic Logic with Justification,['83475'],[]
+95817,Vladimir Yurievich Shavrukov,Universiteit van Amsterdam,1994,Netherlands,Adventures in Diagonalizable Algebras,"['83475', '9042', '47742']",[]
+89432,Sergey  Slavnov,Cornell University,2005,UnitedStates,Semantic Investigations of Linear Logic,"['6458', '83475']",[]
+83478,Tyko  Strassen,Universität Bern,1995,Switzerland,,"['50593', '83475']",[]
+201246,Cagil  Tasdemir,City University of New York,2015,UnitedStates,Epistemic Considerations on Extensive-Form Games,"['83475', '26354']",[]
+162768,Ren-June  Wang,City University of New York,2011,UnitedStates,Timed Modal Epistemic Logic,['83475'],[]
+95818,Tatiana Leonidovna Yavorskaya (Sidon),Lomonosov Moscow State University,1997,Russia,Dynamic Logics of Proofs with Provability Operator,"['83475', '93538']",[]
+95819,Rostislav Eduardovich Yavorsky,Lomonosov Moscow State University,1998,Russia,Predicate Logics of First-Order Theories,"['83475', '93538']",[]
+183076,Junhua  Yu,City University of New York,2014,UnitedStates,"Self-referentiality in Constructive Semantics of
+Intuitionistic and Modal Logics",['83475'],[]
+95800,Evgeny Evgenievich Zolin,Lomonosov Moscow State University,2002,Russia,Modal Logics with Non-Contingency Operator,"['83475', '17546']",[]
+180334,Nicolas  Basset,Université Paris-Est,2013,France,Volumetry of timed languages and applications,"['17494', '99591']",[]
+53484,Catalin  Dima,Université Joseph Fourier Grenoble I,2001,France,Algebraic theory of formal real-time languages,"['17494', '19289']",[]
+54547,Sergei L'vovich Sobolev,St. Petersburg State University,1929,Russia,On Analytic Solutions of a System of Partial Differential Equations with Two Independent Variables,"['55610', '54650']","['108630', '89436', '135012', '108433', '95450', '146620', '146621', '135011', '124284', '56424', '108497', '54543', '151748', '88768', '58349', '94751', '139171']"
+116542,Borislav Detchev Bojanov,University of Sofia,1975,Bulgaria,Optimal Recovery of Functions and Functionals,"['73605', '89436']","['119324', '119323', '119325', '119322', '119326', '119327', '119328', '119329', '119354', '119330']"
+89442,Feliksas  Ivanauskas,Lomonosov Moscow State University,1974,Russia,Investigation of Difference Green's Function for Wave Systems,['89436'],"['195812', '95302', '95307', '195807', '95296', '95303', '89581', '95295', '95306', '195804', '195808', '195810', '95300', '95299', '95304', '95305', '195805', '95298', '195803', '179070', '95297', '95294', '95301']"
+70992,Grigori P. Panasenko,,,None,,['89436'],"['71488', '256856', '157215']"
+170350,Artūras  Štikonas,Lomonosov Moscow State University,1990,Russia,Investigation of finite difference schemes for symmetrical viscous gas motion equations,['89436'],"['216610', '198664', '198665', '216611']"
+99630,Boris Moiseevich Levitan,Vasyl Karazin Kharkiv National University,"1938, 1940",Ukraine,Some Generalization of Almost Periodic Function (Ph.D. 1938); Theory of Generalized Translation Operators (Habilitation 1940),['83267'],"['17496', '108641', '108639', '9343', '108638', '108640', '106158', '108637', '108643', '108642', '100109', '108644', '105577', '100023']"
+104422,Ludmila Rafailovna Botvina,,,None,Kinetics of Fracture Process of Structural Materials at Different Loading Conditions,['17496'],[]
+79511,Robert V. Goldstein,Russian Academy of Sciences,,Russia,,['17496'],['79502']
+238964,Sergey  Gulev,Lomonosov Moscow State University,1986,Russia,Large-Scale Thermal Interaction of the North Atlantic with the Atmosphere,"['238963', '17496']",[]
+94645,Vladimir I. Kerchman,Russian Academy of Sciences,1975,Russia,Some Problems of Mathematical Consoldation Theory of the Porous Saturated Media,['17496'],[]
+223790,Vadim Bronislavovich Librovich,Lomonosov Moscow State University,,Russia,,"['223789', '17496']",['223787']
+113478,Carlo  Nitsch,Università di Roma La Sapienza,2004,Italy,Some Mathematical Problems in Nonlocal Continuum Damage Mechanics,"['30543', '17496']",[]
+92179,Yelena  Shvets,"University of California, Berkeley",2004,UnitedStates,Problems of Flooding in Porous and Fissured Porous Rock,"['17496', '30630']",[]
+94677,Arkadiy Petrovich Vinnichenko,Lomonosov Moscow State University,1982,Russia,Some equation at oil filtration,['17496'],[]
+75947,Vladimir Illich Piterbarg,Lomonosov Moscow State University,1972,Russia,Properties of High Level Sets for Gaussian Processes,['17498'],[]
+117617,Frank Norbert Proske,Universität Ulm,1998,Germany,Grenzwertsaetze fuer Fuzzy-Zufallsvariablen unter dem Gesichtspunkt der Wahrscheinlichkeitstheorie auf inseparablen Semigruppen,"['20888', '17498']","['265683', '197394', '182630', '253600', '153081', '153558', '179985', '153080', '197229', '140702']"
+193229,Oleg  Seleznjev,,,None,Investigation of accuracy for approximation of random processes and fields,['17498'],[]
+100486,Sara  Sjöstedt de Luna,Umeå University,1997,Sweden,Forecasting Methods for Multiple Time Series and Resampling Techniques for Nonstationary Sequences,"['17498', '81659']",[]
+116802,Vilijandas  Bagdonavicius,,,None,Hypothesis Testing and Estimation in Accelerated Experiments,['17501'],"['118242', '147896']"
+117026,Jonas  Jusas,Steklov Institute of Mathematics,1973,Russia,Some Problems of Quality Control,['17501'],[]
+187211,Victor Yurievich Korolev,Lomonosov Moscow State University,,Russia,,"['17501', '187210']",[]
+118244,Julius Jonas  Kruopis,Steklov Institute of Mathematics,1969,Russia,The Estimators of Markov Processes Parameters,['17501'],[]
+117027,Mirsultan  Mirvaliev,,,None,Several Statistical Problems of Analysis of Variance and Regression,['17501'],[]
+80522,Mikhail  Nikouline/Nikulin,Steklov Institute of Mathematics,1973,Russia,,['17501'],"['89386', '89388', '89387', '89389', '89390', '80465', '129908', '165438', '80464']"
+117028,Vera Ignatievna Pagurova,,,None,Approximations of Distributions,['17501'],[]
+117029,Mubarak  Ubaidulaeva,,,None,On Detection of Outliers,['17501'],[]
+67236,Igor Nikolaevich Volodin,,,None,Mathematical Statistics,['17501'],"['180430', '180432', '180429', '98659', '180431', '180433', '169528']"
+270814,Igor Semenovich Borisov,"Sobolev Institute of Mathematics, Novosibirsk",1978,Russia,Rate of convergence in the invariance principle,['17502'],[]
+95276,Dmitry Alekseevich Korshunov,"Sobolev Institute of Mathematics, Novosibirsk",1990,Russia,Transient Phenomena for Markov Chains and their Applications,['17502'],[]
+270815,Marat Masutovich Safarov,"Sobolev Institute of Mathematics, Novosibirsk",1993,Russia,Limit theorems on convergence to multi-dimensional diffusion processes and their applications to queueing networks,['17502'],[]
+200759,Aleksandr Ivanovich Sakhanenko,"Sobolev Institute of Mathematics, Novosibirsk",1975,Russia,On functional convergence of distributions of processes defined on the whole real line,['17502'],[]
+246415,Sergey  Utev,"Sobolev Institute of Mathematics, Novosibirsk",1984,Russia,Inequalities and limit theorems for sequences of weakly dependent random variables,['17502'],['246414']
+87277,Yuri  Bakhtin,Lomonosov Moscow State University,2001,Russia,Limit Theorems For Random Solutions of the Burgers Equation,['17503'],"['156916', '204802']"
+174826,Oleg Alexandrovich Butkovsky,,,None,Limit Theorems for Markov Processes,['17503'],[]
+174819,Stepan Valerievich Dilman,,,None,Study of Fluctuations of Sums of Independent Multi-indexed Random Variables,['17503'],[]
+174821,Nataliya Yurievna Kryzhanovskaya,,,None,Statistical Limit Theorems for Weakly Dependent Random Fields,['17503'],[]
+174810,Anna Evgenievna Mikusheva,Lomonosov Moscow State University,2001,Russia,"Complete convergence and limit theorems
+for arrays","['17503', '61453']","['197828', '200565', '197829', '200571']"
+174820,Nikolay Vladimirovich Millionshchikov,,,None,"Nonparametric Estimation of the Density and the Regression Function for
+Weakly Dependent Random Fields",['17503'],[]
+174822,Maxim Maratovich Musin,,,None,Geometric Functionals of Random Sets and Random Graphs,['17503'],[]
+174817,Denis Vladimirovich Poryvay,,,None,Invariance Principle for Mixing Stochastic Processes and Random Fields,['17503'],[]
+174811,Alexey Pavlovich Shashkin,,,None,Some Limit Theorems for Weakly Dependent Random Fields,['17503'],[]
+174824,Iliya Sergeevich Tyurin,,,None,Effective Approximation of the Normalized Sums of Random Summands,['17503'],[]
+174809,Mikhail Alexandrovich Vronski,,,None,Some Limit Theorems for Associated Random Fields,['17503'],[]
+174823,Pavel Andreevich Yaskov,,,None,Laws of Large Numbers in Modern Stochastic Models,['17503'],[]
+174825,Maxim Evgenievich Zhukovskii,,,None,Zero-one Law and  Law of Large Numbers for Random Graphs,['17503'],[]
+101871,Michael  Averintsev,,,None,,['17505'],[]
+101869,Vladimir  Basis,,,None,Multicomponent Markov Processes with Local Interactions,['17505'],[]
+99278,Yurii Nikolaevich Blagoveschenskii,St. Petersburg State University,1963,Russia,,['17505'],[]
+135633,Michel  Deza,Lomonosov Moscow State University,1965,Russia,,['17505'],"['53480', '53480', '120839']"
+184077,Ostap  Hryniv,Lomonosov Moscow State University,1995,Russia,Functional Central Limit Theorem in Problems of Statistical Physics,['17505'],"['190560', '253931']"
+92884,Mark Yakovlevich Kelbert,Lomonosov Moscow State University,1981,Russia,Asymptotical Analysis of Random Processes in Complex Communication Networks,['17505'],[]
+101870,Oleg  Kozlov,,,None,,['17505'],[]
+190709,Boris  Nahapetian,,,None,Limit theorems for weakly depended random variables,['17505'],[]
+99277,Vladimir Fedorovich Pisarenko,Lomonosov Moscow State University,1963,Russia,,['17505'],[]
+95826,Senya B. Shlosman,,,None,,['17505'],[]
+98930,Nikolai Nikolaevich Chentsov,Lomonosov Moscow State University,1958,Russia,Verification of statistic tests by the methods of stochastic processes,['17507'],[]
+79450,K. E. Dambis,Lomonosov Moscow State University,,Russia,,['17507'],[]
+79454,Igor V. Evstigneev,"Central Economics and Mathematics Institute, Russian Academy of Science",1974,Russia,Optimal Stochastic Programs and Their Supporting Prices,"['17507', '79451']",[]
+39425,Mark I. Freidlin,Lomonosov Moscow State University,1962,Russia,,['17507'],"['159653', '83726', '39818', '39816', '83727', '30768', '83730', '171986', '185320', '83724', '83733', '83732', '57119', '83725', '39817', '98057', '55061', '83729', '83728', '83731', '83723', '39819', '39787', '83734']"
+79445,Fridrikh Izrailevich Karpelevich,Lomonosov Moscow State University,1956,Russia,,['17507'],['83735']
+38440,Rafail Zalmonovich Khasminskii,Lomonosov Moscow State University,1959,Russia,Diffusion Processes and Boundary Problems for Elliptic and Parabolic Differential Equations,['17507'],"['80044', '80042', '83736', '38168', '80040', '38167', '80048', '80047', '61347', '80039', '80045', '80046', '80041']"
+15024,Nicolai Vladimirovich Krylov,Lomonosov Moscow State University,,Russia,,['17507'],"['83763', '83759', '59979', '91261', '83757', '183399', '83761', '100228', '89171', '83765', '89173', '14799', '83760', '83764', '83762', '47778', '25473', '83758', '47782', '40813', '83766']"
+79453,Sergei E. Kuznetsov,"Central Economics and Mathematics Institute, Russian Academy of Science",1976,Russia,,['17507'],['157451']
+79444,Shagdar  Luvsantseren,Lomonosov Moscow State University,1954,Russia,,['17507'],[]
+61504,Mikhail B. Malyutov,Lomonosov Moscow State University,,Russia,,['17507'],"['83786', '83776', '83787', '61527', '77553', '83777', '83775', '83779', '83783', '83780', '83772', '83768', '83784', '75173', '83781', '83778', '83782', '47191']"
+79457,Avishai  Mandelbaum,Cornell University,1983,UnitedStates,Linear Estimators of the Mean of a Gaussian Distribution on a Hilbert Space,"['17507', '13280']","['83790', '83791', '111659']"
+79451,Stanislav Alekseevich Molchanov,Lomonosov Moscow State University,1963,Russia,,['17507'],"['83805', '83798', '83795', '79454', '83797', '83804', '83799', '249514', '83802', '190204', '83803', '83806', '83800', '83807', '83796', '83801', '256327']"
+79455,Sergei Mironovich Natanzon,"Central Economics and Mathematics Institute, Russian Academy of Science",1982,Russia,Finite groups of homeomorphisms of surfaces and real forms of complex algebraic curves,"['17507', '45083']",['100896']
+79452,E. V. Nolde,Lomonosov Moscow State University,,Russia,,['17507'],[]
+48801,Arkady L'vovich Onishchik,Lomonosov Moscow State University,,Russia,,['17507'],"['83811', '83825', '83831', '83829', '122588', '83819', '83822', '83812', '83826', '83813', '83710', '20647', '83823', '83815', '83830', '83715', '83810', '83809', '32839', '83828', '83824', '138954', '83821', '83814', '83816', '83820', '83818', '167862']"
+79446,I. Z. Rozenknop,Lomonosov Moscow State University,1956,Russia,,['17507'],[]
+79447,L. V. Seryogin,Lomonosov Moscow State University,1961,Russia,,['17507'],[]
+79458,Patrick Russell Sheppard,Cornell University,1985,UnitedStates,The Dirichlet Principle and Finite Energy Solutions of the Discrete Dirichlet Problem,['17507'],[]
+39503,Yuan-Chung  Sheu,Cornell University,1993,UnitedStates,On Path Properties of Superdiffusions,['17507'],[]
+79449,Mikhail Grigoryevtsh Shur,Lomonosov Moscow State University,1963,Russia,Some Problems in the Theory of Markov Processes,['17507'],"['83834', '83835', '83833']"
+47712,Anatoli V. Skorokhod,Lomonosov Moscow State University,1962,Russia,,['17507'],"['83865', '83858', '83866', '83845', '83873', '83871', '83844', '83883', '83839', '83878', '83836', '51758', '83849', '47702', '83859', '83881', '83863', '83886', '83852', '83860', '83867', '83851', '83847', '83879', '52315', '83837', '83862', '83872', '83882', '83846', '83877', '83884', '83887', '83853', '83843', '83850', '77575', '83874', '83868', '83864', '83880', '83848', '83854', '83861', '83869', '83869', '83876', '83841', '83842', '52311', '83856', '83838', '83870', '83888', '83885', '83840', '83857', '83875']"
+79456,Michael I. Taksar,Cornell University,1979,UnitedStates,Translation Invariant Regenerative Sets and Subprocesses of Markov Processes,['17507'],"['83919', '83920', '1388', '83918']"
+75422,Valery Nicolayevitsh Tutubalin,Lomonosov Moscow State University,1963,Russia,Limit Behaviour of Measure Convolutions on Some Homogeneous Spaces,['17507'],"['83925', '83924', '83926', '83923', '83922', '83921']"
+51555,Robert Joseph Vanderbei,Cornell University,1981,UnitedStates,Toward a Stochastic Calculus for Several Brownian Motions,"['17507', '5129']","['59882', '75504', '204433', '197056', '260112', '260111', '197054', '75505']"
+45083,Èrnest Borisovich Vinberg,Lomonosov Moscow State University,1962,Russia,,"['17507', '23172']","['83936', '79852', '83928', '83938', '83947', '163360', '83939', '247332', '83943', '83929', '83952', '37054', '83940', '158164', '172025', '83949', '132189', '83932', '83941', '155255', '83942', '79455', '83950', '83937', '158159', '83951', '83934', '83930', '83944', '158156', '83945', '83931', '158155', '158157', '158160', '83953', '83948', '83946', '83954', '83927', '83955', '83933', '158158']"
+79448,V. A. Volkonskii,Lomonosov Moscow State University,,Russia,,['17507'],[]
+44129,Alexander D. Wentzell,Lomonosov Moscow State University,1964,Russia,,['17507'],"['83964', '83965', '40371', '83966', '83967', '160371']"
+75435,Wei-Shih  Yang,Cornell University,1984,UnitedStates,Simon-Lieb Inequality for Phi-4 Theory in Two Dimensions,"['17507', '6480']","['72925', '97821', '109582', '83968', '166285', '40183']"
+137548,Anton Adamovich Tynovsky,Institute of Mathematics of National Academy of Sciences of Ukraine,1966,Ukraine,,['17509'],[]
+75514,Aleksy  Tralle,Belorussian State University,1985,Belarus,Submanifolds of Generalized Symmetric Spaces,['87888'],"['182605', '198995', '75545', '87890', '142260', '158264']"
+95099,Evgeny Vitelievich Maikov,Lomonosov Moscow State University,1965,Russia,,['17510'],[]
+228302,Viktor Pavlovich Maslov,Lomonosov Moscow State University,1957,Russia,Singular perturbation theory,['17510'],"['23966', '228301', '227671']"
+94903,Dmitry Petrovich Zhelobenko,Steklov Institute of Mathematics,1962,Russia,,['17510'],['116728']
+173871,Georgiy Maksimovich Adelson-Velsky,Lomonosov Moscow State University,1949,Russia,Spectral Analysis of Ring of Bounded Linear Operators,['17512'],[]
+6269,Juan Carlos Álvarez-Paiva,"Rutgers University, New Brunswick",1995,UnitedStates,The Symplectic Geometry of Spaces of Geodesics,"['5822', '17512']","['87119', '93472']"
+85896,Felix Aleksandrovich Berezin,Lomonosov Moscow State University,1957,Russia,,['17512'],"['127907', '100022', '118324', '159781', '87521', '92467', '92765']"
+18743,Joseph N. Bernstein,Lomonosov Moscow State University,1972,Russia,,['17512'],"['147708', '87772', '69564', '85646', '139216', '18760', '53163', '214435', '214436', '139215', '99855', '100476', '260246', '177510', '100477', '18761', '87773', '92021', '217208', '42004']"
+89558,Vladimir Andreevich Borovikov,Lomonosov Moscow State University,1958,Russia,,['17512'],"['134576', '128179', '134575']"
+106300,Leonid Aleksandrovich Diky,Lomonosov Moscow State University,1956,Russia,,['17512'],[]
+106301,Vitalii Arsenievich Ditkin,Lomonosov Moscow State University,1938,Russia,,['17512'],['107652']
+74365,Mikhail Vasilevich Fedoryuk,Lomonosov Moscow State University,1960,Russia,,['17512'],"['86244', '92943', '169507']"
+171005,Valentina Alekseevna Golubeva,,,None,,['17512'],[]
+44006,Alexander B. Goncharov,"Sobolev Institute of Mathematics, Novosibirsk",1987,Russia,,['17512'],"['250764', '203482', '250763', '23044', '78482', '108107', '22535', '186468', '23046', '238903', '38097']"
+110419,Aleksei Dzhermenovich Gvishiani,Lomonosov Moscow State University,1974,Russia,,['17512'],[]
+84448,Tanya  Khovanova,Lomonosov Moscow State University,1988,Russia,,['17512'],[]
+128879,Yakov Isaevich Khurgin,Lomonosov Moscow State University,1948,Russia,,['17512'],"['160784', '188542']"
+25063,Alexandre Aleksandrovich Kirillov,Lomonosov Moscow State University,1962,Russia,Unitary representations of nilpotent Lie groups,['17512'],"['42010', '42011', '42018', '42007', '59763', '41994', '42028', '42042', '42003', '42015', '42037', '42017', '41998', '41991', '46807', '42019', '42027', '42014', '42024', '18751', '42012', '42038', '42009', '42005', '187198', '42032', '48248', '23125', '42033', '42023', '42025', '42034', '42020', '42035', '42039', '154874', '41996', '41993', '42031', '95585', '42006', '161986', '94751', '42040', '59768', '41997', '152962', '42008', '42021', '41999', '42002', '42013', '83707', '42026', '42001', '42029', '41990', '42045', '42036', '41995', '42004']"
+135979,Valentin Izrailevich Krinsky,Lomonosov Moscow State University,1965,Russia,,['17512'],[]
+91161,Victor Borisovich Lidskii,Lomonosov Moscow State University,1954,Russia,Questions of Spectral Theory For Systems of Second Order Differential Equations,['17512'],"['107549', '138307', '107669', '107670', '138312', '135634', '107551', '138308', '107550']"
+91200,Albert Makarievich Molchanov,Lomonosov Moscow State University,1952,Russia,A Criterion for the Discreteness of the Spectrum of a Second-Order Differential Equation,['17512'],"['170606', '170608', '170596', '170605', '170607', '170599', '170616', '170611', '170600', '170597', '170592', '170593', '170609', '86406', '90281', '170598', '170617', '170619', '170602', '170594', '170603']"
+105787,Vladimir Solomonovich Retakh,Lomonosov Moscow State University,1973,Russia,,['17512'],"['176014', '223320', '34131', '201773']"
+22253,Georgiy Evgenievich Shilov,Lomonosov Moscow State University,1954,Russia,,['17512'],"['88743', '116094', '81093', '92519', '36567', '87669', '22302', '87701', '73790', '92966', '45080', '13823', '11652', '58609', '55993', '14100', '36712', '231639', '92518', '87668', '126774', '81094', '82673']"
+76147,Èmmanuil Èlievich Shnol',Lomonosov Moscow State University,1955,Russia,On Behaviour of Eigefunctions of the Schrödinger Equation,['17512'],"['170608', '99634', '171036', '76170', '171039', '171040']"
+161386,Yuli Anatoljevitch Shreider,Lomonosov Moscow State University,1950,Russia,Maximal ideals in rings of measures with convolution,['17512'],['102191']
+18879,Mikhail  Smirnov,Princeton University,1995,UnitedStates,"Combinatorial Formulas For Characteristic Classes, And  Localization Of Secondary Topological Invariants","['17512', '18853']",[]
+70200,Endre  Szemerédi,Lomonosov Moscow State University,,Russia,,['17512'],"['70283', '70280', '216399', '163696', '70284', '163573', '257639', '70285', '257640', '69758', '205778', '70281', '70282', '70361', '69759']"
+107031,Mikhail L'vovich Tseitlin,Lomonosov Moscow State University,,Russia,,['17512'],[]
+42004,Andrey V. Zelevinsky,Lomonosov Moscow State University,1978,Russia,,"['25063', '17512', '18743']","['168708', '154782', '69728', '149788', '95508', '34070', '172584', '175872']"
+140604,Maxim V. Zyskin,"Rutgers University, New Brunswick",1996,UnitedStates,"Integrable Equations, and Nonlinear Fourier, Radon and Abel Transforms","['140603', '17512']",['155102']
+148343,L. I. Galtchouk,Lomonosov Moscow State University,1972,Russia,,"['17541', '45649']","['186898', '186899', '148084', '186896', '186897']"
+45275,Valery  Korobov,Lomonosov Moscow State University,1969,Russia,"The methods of Solving the Problems of Synthesis, Controllability",['45649'],"['227306', '100618', '100547', '100548', '100542', '100543', '66304', '100544', '66127', '226673', '45004', '100545', '100546']"
+190246,Valeriy Ivanovich Afanasyev,,,None,,['17516'],[]
+190248,Alexander  Shklyaev,,,None,,['17516'],[]
+156317,Nikolay G. Moshchevitin,Lomonosov Moscow State University,1994,Russia,Application of Number-Theoretical methods to some problems of Classic mechanics,['17517'],"['162005', '211955', '213046', '211952', '162006', '189863', '162002', '156318', '217573', '213045', '211954', '211953']"
+88056,Alexei V. Tsygvintsev,Lomonosov Moscow State University,2001,Russia,On the Meromorphic Non-Integrability of the Planar Three-Body Problem,"['17517', '133716']",['179604']
+264671,Igor Vladimirovich Bezdenezhnykh,Lomonosov Moscow State University,1992,Russia,Logical model of object matching in information systems,['49527'],[]
+204243,Alexander Mikhailovich Iglitsky,Lomonosov Moscow State University,2006,Russia,"Development of models, algorithms and software for the problems of the noise-proof control of temperature and humidity of the grain mass","['49527', '204242']",[]
+49549,Andrey Alexandrovich Kuzichev,Lomonosov Moscow State University,1986,Russia,On Methods of Representation of Formal Arithmetic in Combinatorially Complete Systems,"['17546', '49527']",[]
+235962,Sergey Leonovich Nikogosov,Lomonosov Moscow State University,,Russia,,"['98102', '49527']",[]
+49536,Leonid Vasil'evich Shabunin,Lomonosov Moscow State University,1975,Russia,Some Mass Problems in Pure Combinatory Logic Calculi,"['49527', '17546']",[]
+199942,Viacheslav  Wolfengagen,Moscow Engineering Physics Institute,1977,Russia,Theoretical and engineering methods for designing relational data banks in automated control systems,"['199941', '49527', '199941', '49527']",[]
+25184,Albert Ronald da Silva Meyer,Harvard University,1972,UnitedStates,On Complex Recursive Functions,['13297'],"['81222', '69374', '81223', '81224', '81282', '81225', '77949', '39665', '40889', '18992', '64858', '81226', '61151', '61150', '14774', '17519', '41460', '81227', '81228', '2435', '77166', '81229', '61152', '39420', '81230', '81231', '61147']"
+8665,Gene  Itkis,Boston University,1993,UnitedStates,,['17519'],['132758']
+168045,Siva Raj Rajagopalan,Brown University,1996,UnitedStates,Hard-on-average problems and their applications,['17519'],[]
+167849,Ramarathnam  Venkatesan,Boston University,1990,UnitedStates,Average Case intractability,['17519'],[]
+58997,Yuri L. Ershov,Novosibirsk State University,1963,Russia,On Decidabiliity of Elementary Theories,['17520'],"['159469', '59029', '261652', '205009', '130081', '115890', '90749', '90749', '120545']"
+93910,Viktor Mikhaylovich Glushkov,Ural State University,1951,Russia,Locally Nilpotent Torsion-Free Groups with the Conditions of Breakage for Some Chains of Subgroups,"['53007', '17520']","['125149', '172991', '58674', '172990', '173238']"
+130620,Igor Andreevich Lavrov,"Sobolev Institute of Mathematics, Novosibirsk",1963,Russia,Unsolvable of some Elementary Theories,['17520'],[]
+88853,Larisa L'vovna Maksimova,Novosibirsk State University,1968,Russia,Logical Calculi of Strict Implication,['17520'],"['163467', '126395', '126396', '126392', '126393', '90750', '126391', '126390']"
+90739,Dmitrii Matveevich Smirnov,Ivanovo Pedagogical Institute,1951,Russia,,['17520'],"['90740', '92724', '126392']"
+57466,Michael Abramovich Taitslin,"Sobolev Institute of Mathematics, Novosibirsk",1963,Russia,Some problems in elementary theory of algebraic systems,['17520'],"['61235', '61240', '61238', '61239', '61237']"
+134246,Jens  Brage,Stockholm University,2006,Sweden,A Natural Interpretation of Classical Proofs,['20640'],[]
+106479,Jesper  Carlström,Stockholm University,2005,Sweden,Partiality and Choice: Foundational Contributions,['20640'],[]
+134054,Johan Georg Granström,Uppsala Universitet,2009,Sweden,Reference and Computation in Intuitionistic Type Theory,"['105428', '20640']",[]
+101786,Aarne  Ranta,Helsingin yliopisto,1990,Finland,Studies in Constructive Semantics,['20640'],"['162059', '204202', '204215', '204228', '204203', '113519', '76368', '102260', '246092', '102261', '204208', '204216']"
+34788,Jan  Smith,Göteborg Universitet,1978,Sweden,On the relation between a type theoretic and a logical formulation of  the theory of constructions,['20640'],['265988']
+106051,Rolf  Sundberg,Stockholm University,1972,Sweden,Maximum Likelihood Theory and Applications for Distributions Generated when Observing a Function of an Exponential Family Variable,['20640'],"['143025', '172662', '172663', '243045', '172661', '107276']"
+139777,Yuri Mikhailovich Ermol'ev,Institute of Mathematics of National Academy of Sciences of Ukraine,1964,Ukraine,,['17526'],['127649']
+134411,Naum Zuselevich Shor,Institute of Mathematics of National Academy of Sciences of Ukraine,1965,Ukraine,,['17526'],[]
+91183,Ilya Michaylovich Livshic,,,None,,[],['91201']
+92789,Evgeny Leonidovich Lakshtanov,Lomonosov Moscow State University,2004,Russia,Two-Particle Bound State Spectrum of Transfer Matrices for Gibbs Fields,"['91201', '92765']",[]
+135980,M. Kh. Lantsman,Lomonosov Moscow State University,1965,Russia,,['91201'],[]
+153475,Elena Anatolievna Zhizhina,Lomonosov Moscow State University,,Russia,,['91201'],[]
+78677,Alexander  Berestov,Moscow Institute of Physics and Technology,1982,Russia,Problems of Rossby Soliton Theory,['17528'],['104804']
+108431,Tuleubgei Idrisovich Amanov,Steklov Institute of Mathematics,1953,Russia,,['17529'],[]
+92011,Oleg Vladimirovich Besov,Steklov Institute of Mathematics,1961,Russia,,['17529'],"['150091', '255611']"
+92509,Yakov Stepanovich Bugrov,Steklov Institute of Mathematics,1956,Russia,,['17529'],[]
+67492,Victor I. Burenkov,Lomonosov Moscow State University,,Russia,,['17529'],"['89737', '191954', '67511', '98288']"
+122173,Vladislav Kirillovich Dzyadyk,Dnepropetrovsk State University,1955,Ukraine,,['17529'],"['130291', '131825', '130459', '129712', '130293', '129904', '130528', '130456', '129905', '151884', '129902', '211612', '131826', '130290', '129903', '130532', '131827', '130289', '130529', '130533', '129714', '129906', '130530', '129713', '130292', '129711']"
+137031,Aleksandr Sergeevich Fokht,Moscow State Pedagogical Institute,1963,Russia,,['17529'],[]
+122174,Nikolai Pavlovich Korneichuk,Dnepropetrovsk State University,,Ukraine,,['17529'],"['125027', '163666']"
+177952,Petraq  Pilika,Lomonosov Moscow State University,1961,Russia,Some Fundamental Theorems of Nikol'skii spaces,['17529'],"['270283', '211974', '182455']"
+97287,Mikhail Konstantinovich Potapov,Lomonosov Moscow State University,,Russia,,['17529'],"['154026', '154017', '131486', '154020', '131487', '159779', '159780', '153764', '153762', '152654', '154023', '219121', '153759', '153759', '154025', '154021', '154027', '148571', '154019', '153760', '153766', '153765', '154028', '153763', '154022', '154022', '154018', '148570', '153768', '153767', '154024', '97305', '152242']"
+92277,Aleksandr Filippovich Timan,Steklov Institute of Mathematics,,Russia,,['17529'],"['103020', '136289', '107045', '136132', '129900', '135977', '140673', '129710', '137549', '136734', '107046']"
+30269,Alexander B. Gluhovsky,Russian Academy of Sciences,1973,Russia,,['17530'],['30268']
+208769,Valerian  Tatarskii,Russian Academy of Sciences,1957,Russia,,['17530'],[]
+134050,Irina Leonidovna Bondi,Moscow State Pedagogical Institute,1963,Russia,Some Problems of A-Integration,['17531'],[]
+134842,V. N. Koshelev,Lomonosov Moscow State University,1966,Russia,,['17535'],[]
+184741,Denis  Belomestny,Lomonosov Moscow State University,2002,Russia,Reconstruction of the general distribution from the distribution of some statistics,['17536'],['184740']
+155834,Ruben V. Ambartzumian,Lomonosov Moscow State University,1962,Russia,,['17537'],['188917']
+101278,Ekaterina Vadimovna Bulinskaya,Steklov Institute of Mathematics,1965,Russia,,['17537'],['101282']
+135010,P. G. Gamkrelidze,Steklov Institute of Mathematics,1966,Russia,,['17537'],[]
+159500,Evgueni I.  Gordienko,Lomonosov Moscow State University,1978,Russia,Some results on stability in nonlinear programming in the presence of stochastic disturbances,['17537'],"['167826', '247156', '159501', '253363']"
+135009,Tsiala Galaktionovna Khakhubiya,Steklov Institute of Mathematics,1966,Russia,,['17537'],[]
+189630,Ernst L. Presman,Steklov Institute of Mathematics,1968,Russia,"Boundary problems for sums of random variables defined on a finite regular
+Markov chain",['17537'],[]
+99628,Boris Alekseevich Rogozin,Steklov Institute of Mathematics,1962,Russia,Some Extremal Problems in Domain of Limiting Theorems,['17537'],['134655']
+53009,Vladimir Illyich Rotar,Moscow Institute of Physics and Technology,1970,Russia,On the Central Limit Theorem of Probability Theory,['17537'],['130049']
+136935,E. G. Samandarov,Ivane Javakhishvili Tbilisi State University,1963,Georgia,,['17537'],[]
+99627,Vyacheslav Vasilievich Sazonov,Lomonosov Moscow State University,1962,Russia,Probability Distributions and Characteristic Functionals,['17537'],"['128740', '10759', '146173']"
+130049,Sergey Yakovlevich Shorgin,Lomonosov Moscow State University,1979,Russia,Estimates of Convergence Rate in the Central Limit Theorem of Probability Theory,"['17537', '53009']",[]
+134292,Oleg Viktorovich Viskov,Steklov Institute of Mathematics,1964,Russia,,['17537'],[]
+189569,Lioudmila Yu Vostrikova,Vilniaus universitetas,1981,Lithuania,Change-point problem for multidimensional stochastic processes,['17537'],[]
+150167,Giulia  Di Nunno,Università degli Studi di Pavia,2003,Italy,On Stochastic Differentiation with Application to Minimal Variance Hedging,"['150166', '17538']","['150168', '227744', '154970', '150325', '197229', '182244', '150324']"
+238837,Alexander Semyonovich Holevo,Steklov Institute of Mathematics,1969,Russia,,['17538'],[]
+100995,Vladmir Alekseevich Vatutin,Steklov Institute of Mathematics,1987,Russia,Critical branching processes with regularly varying generating functions,"['101891', '102806']",['100996']
+139483,Nikolaĭ Mihailov Yanev,Lomonosov Moscow State University,1975,Russia,,['101891'],"['140311', '140513', '140312', '140512', '61559', '140313']"
+181526,Aygul T. Abakirova,Lomonosov Moscow State University,2012,Russia,"Stochastic versions of Poincare's inequality and Sobolev's logarithmic
+inequality",['17541'],[]
+181831,Andrey A. Afanasiev,Lomonosov Moscow State University,1993,Russia,On asymptotic properties of random sequences and processes,['17541'],[]
+181525,Amir F. Aliev,Lomonosov Moscow State University,2013,Russia,Disorder problem for self-exciting processes,['17541'],[]
+181143,Ashot A. Antonyan,Lomonosov Moscow State University,1988,Russia,Limit theorems for some classes of semimartingels,['17541'],[]
+181802,Arkadii E. Barbaroshie,Lomonosov Moscow State University,1976,Russia,Control Markov sequences with analytic state spaces,['17541'],[]
+120121,Elena / Elena Vladimirovna Boguslavskaya,Universiteit van Amsterdam,2006,Netherlands,Optimization Problems in Financial Mathematics: Explicit Solutions for Diffusion Models,"['17541', '73207']",[]
+180212,Evgenii B. Burnaev,Lomonosov Moscow State University,2008,Russia,"About minimax and generalized Bayesian quickest detection problems for
+Poisson processes",['17541'],[]
+181144,Alexander S. Cherny,Steklov Institute of Mathematics,2000,Russia,Qualitative behaviour of the solutions of stochastic differential equations,['17541'],[]
+181805,Besarion  Dochviri,Lomonosov Moscow State University,1978,Russia,Some problems on optimal stopping rules,['17541'],[]
+90326,Raimund  Döhler,Technische Universität Chemnitz,1976,Germany,Untersuchungen zu randomisierten Zeiten,"['17541', '52667']",[]
+181829,Levan G. Dzhamburiya,Lomonosov Moscow State University,1985,Russia,On the problem of control of observation stochastic processes,['17541'],[]
+181832,Arkadii I. Ekushov,Lomonosov Moscow State University,1986,Russia,Strong invariance principle for locally square integrable semimartingales,['17541'],[]
+181097,Simon A. Eloshvili,Lomonosov Moscow State University,1982,Russia,Optimal estimation of a linear stochastic system,['17541'],[]
+29366,Hans-Jürgen  Engelbert,Lomonosov Moscow State University,1972,Russia,"On the Control of Stochastic Processes (Optimal Stopping, Controlled Markov Processes)",['17541'],"['243706', '133683', '183217', '158875', '133431', '183086', '90315', '133429', '90298', '89278', '84637', '90300', '133685', '90330', '133433', '133435', '27743']"
+181804,Hans-Heiner  Faermann,Lomonosov Moscow State University,1977,Russia,On optimal stopping of partially observed processes,['17541'],[]
+181820,A. G. Fakeev,Lomonosov Moscow State University,1970,Russia,Optimal stopping of stochastic processes with continuous time,['17541'],[]
+181825,Pavel V. Gapeev,Lomonosov Moscow State University,2001,Russia,Bayesian and variational problems of sequential estimation,['17541'],[]
+180230,Omar A. Glonti,Lomonosov Moscow State University,1969,Russia,"Sequential filtration, interpolation and extrapolation of random processes",['17541'],[]
+187324,Boris Dmitrievich Gnedenko,"Central Economics and Mathematics Institute, Russian Academy of Science",2006,Russia,Maximization of capital in arbitrage market with transaction costs,['17541'],[]
+175522,Ion  Grama,Steklov Institute of Mathematics,1988,Russia,Rates of normal approximations for semimartingales,['17541'],['175520']
+86843,Alexander Alexandrovich Gushchin,Steklov Institute of Mathematics,1983,Russia,On General Theory of Random Fields (Martingale Approach),['17541'],"['269788', '189990', '182540', '182541', '182539']"
+126950,Lev Abramovich Imas,Moscow Institute of Electronics and Mathematics,1987,Russia,On Absolute Continuity and Singularity of Probability Measures in Hilbert Spaces,['17541'],[]
+79628,Yuri M Kabanov,Lomonosov Moscow State University,1975,Russia,Point processes and extended stochastic integrals,['17541'],"['182062', '182063', '179838', '182061']"
+184954,Gennady D. Kartashov,Lomonosov Moscow State University,1971,Russia,"Problems of reconstruction (when possible) of a multivariate distribution
+function based on its known marginal distributions",['17541'],[]
+181577,Pavel Konstantinovich Katyshev,Lomonosov Moscow State University,1976,Russia,"Transmission of Gaussian messages through a channel with white noise and
+feedback",['17541'],[]
+182122,Dimitar I. Khadzhiev,Lomonosov Moscow State University,1977,Russia,Martinagale methods in the theory of point processes,['17541'],[]
+182417,Vladimir Alekseevich Kolemaev,Institute of Control Sciences,1965,Russia,Problems of control of stochastic objects,['17541'],[]
+181809,Eduard I. Kolomietz,Lomonosov Moscow State University,1987,Russia,Martingale methods in the theory of testing of statistical hypotheses,['17541'],[]
+180228,Nino E. Kordzakhia,Lomonosov Moscow State University,1988,Russia,The convergence of binary statistical experiments,['17541'],[]
+129323,Dmitry O Kramkov,Steklov Institute of Mathematics,1992,Russia,Toward the general theory of filtered statistical experiments,['17541'],"['136195', '167527', '30803', '166891', '219956']"
+181835,Alexander V. Kulikov,Lomonosov Moscow State University,2008,Russia,"Multidimensional coherent risk measures and their application to problems
+in financial mathematics",['17541'],[]
+181833,Yurii A. Kuznetsov,Institute for Information Transmission Problems,2009,Russia,Testing of hypotheses in a scheme with alternative observations,['17541'],[]
+181099,Valerii V. Lavrentev,Lomonosov Moscow State University,1983,Russia,Weak convergence of Hilbert semimartingales,['17541'],[]
+181821,Vladimir A. Lebedev,Lomonosov Moscow State University,1973,Russia,Stochastic differential equations with driving random measures,['17541'],[]
+181808,Irina L. Legostaeva,Lomonosov Moscow State University,1986,Russia,Minimax estimation of the trend of a random sequence,['17541'],[]
+20120,Robert Sh Liptser,Lomonosov Moscow State University,1968,Russia,"Filtering, smoothing and prediction of diffusion Markov processes from incomplete data",['17541'],"['92625', '181100', '69825', '156297', '20121']"
+262140,Dmitrii  Lisovskii,Lomonosov Moscow State University,2019,Russia,Statistical problems for some diffusion-type processes,['17541'],[]
+180125,Yaroslav A. Lyulko,Lomonosov Moscow State University,2013,Russia,On random walk and Brownian motion-type functionals,['17541'],[]
+181830,Khusniddin M. Mamatov,Lomonosov Moscow State University,1988,Russia,Weak convergence of distributions of random processes,['17541'],[]
+181806,Michael G. Mania,Vilniaus universitetas,1981,Lithuania,On absolute continuity and singularity of probability measures,['17541'],"['187331', '187329', '187328']"
+69195,Zakhar G. Maymin,Massachusetts Institute of Technology,1981,UnitedStates,On detection of deterministic components of a random field,"['14968', '17541']",[]
+62272,Alexander Viktorovich Melnikov,Steklov Institute of Mathematics,1980,Russia,Stochastic Differential Equations with Respect to Components of Semimartingales,['17541'],"['187250', '187249', '187247', '181828', '187248', '187246']"
+83760,Tamara P. Miroshnichenko,Lomonosov Moscow State University,1979,Russia,Generalized Wald problem and optimal stopping for diffusion processes,"['15024', '17541']",[]
+185467,Andrey S. Mishchenko,Lomonosov Moscow State University,2005,Russia,Discrete analogues of some properties of Brownian motion and other processes,['17541'],[]
+53304,Ernesto  Mordecki,Steklov Institute of Mathematics,1994,Russia,Convergence of Statistical Experiments and Hellinguer Processes,['17541'],"['256381', '169527', '179617', '202329', '238671']"
+180285,Alexey A. Muravlev,Steklov Institute of Mathematics,2013,Russia,"Sequential hypothesis testing for a Brownian motion with two-sided disorder
+and a fractional Brownian motion",['17541'],[]
+181828,Mikhail L. Nechaev,Lomonosov Moscow State University,1999,Russia,Mean-square hedging in stochastic financial models,"['17541', '62272']",[]
+168370,Mikhail Leonidovich Nikolaev,Vilniaus universitetas,1976,Lithuania,Multiple optimal stopping rules,['17541'],['169528']
+154233,Aleksandr Aleksandrovich Novikov,Steklov Institute of Mathematics,1972,Russia,STochastic integrals and sequential estimation,['17541'],"['221969', '221960', '221961', '221970', '209023', '221962']"
+181826,Tatiana V. Oblakova,Lomonosov Moscow State University,1990,Russia,Limit theorems for stochastic integrals and equations,['17541'],[]
+180403,Stanislav V. Pastuhov,Steklov Institute of Mathematics,2004,Russia,About some probabilistic and statistical methods in technical analysis,['17541'],[]
+181824,Igor V. Pavlov,Lomonosov Moscow State University,1982,Russia,Probabilistic-analytic approach to Hardy spaces,['17541'],"['186674', '189564', '189563', '188656', '190497', '190498', '190496']"
+181527,Gleb V. Perelman,Perm State Technical University,2013,Russia,Modelling of processes of pressing of composite materials,['17541'],[]
+11703,Boris L. Rozovskii,Lomonosov Moscow State University,1972,Russia,On stochastic equations of filtering of Markov processes,['17541'],"['8891', '100367', '8889', '8898', '248622', '38832', '77400']"
+181823,S. S. Samarova,Lomonosov Moscow State University,1981,Russia,On some almost-sure properties of ergodic Markov processes,['17541'],[]
+181827,Malkhaz  Shashiashvili,Lomonosov Moscow State University,1988,Russia,Optimal stopping of weakly measurable random processes,['17541'],['199168']
+181522,Sergey S. Sinelnikov-Murylev,Lomonosov Moscow State University,2011,Russia,Stochastic optimal stopping problems for Levy processes,['17541'],[]
+181523,Maxim A. Spiryaev,Lomonosov Moscow State University,2012,Russia,Stochastic properties of the models of Kagi and Renko,['17541'],[]
+167557,"Jordan Iordan Stoianov, Йордан Стоянов Stoyanov","Institute of Mathematics, Bulgarian Academy of Sciences and Lomonosov Moscow State University",1976,Bulgaria,Optimal Estimation of Partially Observable Markov Processes,['17541'],"['168817', '168819', '168215', '168216', '53885', '168237', '168236', '168818']"
+181803,Teimuraz  Torondzhadze,Lomonosov Moscow State University,1976,Russia,Innovation processes in the estimation problems of stochastic processes,['17541'],[]
+181807,Eugenii I. Trofimov,Lomonosov Moscow State University,1984,Russia,Implicit function theorem for semimartingales,['17541'],[]
+180229,Mikhail A. Urusov,Lomonosov Moscow State University,2003,Russia,"On absolute continuity and singularity of probability measures on a
+filtered probability space",['17541'],['218316']
+181524,Filip A. Ustinov,Lomonosov Moscow State University,2009,Russia,Disorder problem for Levy processes in a generalized Bayes setting,['17541'],[]
+95690,Esko  Valkeila,Helsingin yliopisto,1985,Finland,Studies in Distributional Properties of Counting Processes,['17541'],"['149628', '150443', '95710', '166512', '193328']"
+180404,Leonid G. Vetrov,Lomonosov Moscow State University,1980,Russia,On filtration of semimartingales,['17541'],[]
+180284,Mikhail V. Zhitlukhin,Steklov Institute of Mathematics,2013,Russia,Sequential methods of testing statistical hypotheses and disorder detection,['17541'],[]
+181822,Alexander K. Zvonkin,Lomonosov Moscow State University,1973,Russia,Stochastic differential equations with non-smooth coefficients,['17541'],[]
+97143,Luigi  Accardi,Lomonosov Moscow State University,1974,Russia,,['10481'],"['97164', '243638']"
+141681,Vadim V. Anshelevich,Lomonosov Moscow State University,1974,Russia,"The Kubo-Martin-Schwinger States and Some Topics in ""Noncommutative"" Probability Theory",['10481'],[]
+144884,Pavel  Bachurin,Princeton University,2006,UnitedStates,The Structure of Singularity Manifolds of multi-Dimensional Dispersing Billiards,['10481'],[]
+67722,Michael L Blank,Lomonosov Moscow State University,1985,Russia,Dynamical systems with stochastic behavior and their perturbations,['10481'],[]
+66537,Pavel M. Bleher,Institute of Applied Mathematics of the Russian Academy of Sciences,1974,Russia,Investigation of the Second Order Phase Transitions in Some Models of Ferromagnetism,['10481'],"['19133', '109380', '161833', '187304', '238357']"
+34125,Alexander I. Bufetov,Princeton University,2005,UnitedStates,Decay of Correlations for the Rauzy-Veech-Zorich Induction Map and the Central Limit Theorem for the Teichmuller Geodesic Flow,['10481'],[]
+22248,Leonid Abramovich Bunimovich,Lomonosov Moscow State University,1973,Russia,,['10481'],"['239353', '69046', '146820', '76756', '76757', '22164', '251706', '22165', '157109', '146821']"
+155632,Francesco  Cellarosi,Princeton University,2011,UnitedStates,Limit theorems for theta sums via renormalization and homogeneous dynamics,['10481'],[]
+40867,Nikolai I. Chernov,Lomonosov Moscow State University,1984,Russia,Ergodicity and Entropy in Billiards,['10481'],"['171440', '175165', '188331', '88854', '175164', '30831', '54842']"
+34126,Luca  De Sanctis,Princeton University,2005,UnitedStates,Structural Approaches to Spin Glasses and Optimizatin Problems,['10481'],[]
+14863,Dmitry  Dolgopyat,Princeton University,1997,UnitedStates,On Statistical Properties Of Geodesic Flows On Negatively Curved Surfaces,['10481'],"['191932', '183247', '150217', '183248']"
+137239,Akhtam A. Dzhalilov,,,None,Thermodynamic Formalism for Systems of Statistical Mechanics and Small Perturbations of One Dim. Maps,['10481'],[]
+246185,Ilya  Goldsheid,,,None,,['10481'],[]
+196344,Andrey Olegovich Golosov,,,None,,['10481'],[]
+143707,Boris Markovich Gurevich,Lomonosov Moscow State University,1965,Russia,,['10481'],[]
+252215,In-Jee  Jeong,Princeton University,2017,UnitedStates,Dynamics of the Incompressible Euler Equations at Critical Regularity,['10481'],[]
+28158,Svetlana Yakovlevna Jitomirskaya,Lomonosov Moscow State University,1991,Russia,Spectral and Statistical Properties of Lattice Hamiltonians,['10481'],"['234499', '38862', '59526', '174912', '174913', '242548', '40999', '242549']"
+10482,Anatole Boris Katok,Lomonosov Moscow State University,1968,Russia,Applications of the Method of Approximation of Dynamical Systems by Periodic Transformations to Ergodic Theory,['10481'],"['223334', '15003', '10488', '88394', '26730', '10485', '238130', '209414', '240135', '10484', '59735', '109187', '188830', '59723', '44963', '10483', '253104', '59732', '191595', '44948', '59725', '38159', '89174', '110277', '30574', '17411', '10487', '25445', '240782', '209415', '15875', '156771', '215283', '29444', '90768', '209282', '179117', '147566', '263759', '59729', '186303', '48197', '10486', '241447']"

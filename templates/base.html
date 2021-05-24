@@ -1,0 +1,125 @@
+{% load static %}
+<!doctype html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="../static/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../static/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../static/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="../static/img/favicons/site.webmanifest">
+    <link rel="mask-icon" href="../static/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>{% block title %}{% endblock %}</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'css/index.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+
+<aside>
+    <a href="{% url 'home' %}"><img src="{% static 'img/sitemap-solid.svg' %}" width="40">
+    <span class="logo">M-TREE</span></a>
+
+
+     {% comment %}{% csrf_token %}{% endcomment %}
+
+        {% block form %}
+        {% endblock %}
+
+
+</aside>
+
+{% comment %}<button id="button" aria-describedby="tooltip">My button</button>
+    <div id="tooltip" role="tooltip">My tooltip</div>{% endcomment %}
+
+<main>
+    {% block content %}
+    {% endblock %}
+
+    <button type="button" class="btn btn-lg btn-warning fixed-button" data-bs-toggle="popover"
+        id="button" aria-describedby="tooltip">
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" class="bi bi-question-circle" viewBox="0 0 16 16">
+  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path>
+  <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"></path>
+</svg></button>
+<div id="tooltip" role="tooltip">
+    The intent of this project is to compile information<br>
+    about (almost) ALL the mathematicians of the world.<br>
+    It is our goal to list all individuals who<br>
+    have received a doctorate in mathematics.<br><br>
+
+    For each individual we plan to show the following:<br>
+    <ul>
+    <li>The complete name of the degree recipient</li>
+    <li>The name of the university which awarded the degree</li>
+    <li>The year in which the degree was awarded</li>
+    <li>The complete name(s) of the advisor(s)</li>
+    <li>The complete name(s) of the student(s)</li>
+    </ul>
+    <div id="arrow" data-popper-arrow></div>
+</div>
+
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script>
+      const button = document.querySelector('#button');
+      const tooltip = document.querySelector('#tooltip');
+
+      const popperInstance = Popper.createPopper(button, tooltip, {
+        modifiers: [
+          {
+            name: 'offset',
+            options: {
+              offset: [0, 8],
+            },
+          },
+        ],
+      });
+
+      function show() {
+        // Make the tooltip visible
+        tooltip.setAttribute('data-show', '');
+
+        // Enable the event listeners
+        popperInstance.setOptions({
+          modifiers: [{ name: 'eventListeners', enabled: true }],
+        });
+
+        // Update its position
+        //popperInstance.update();
+      }
+
+      function hide() {
+        // Hide the tooltip
+        tooltip.removeAttribute('data-show');
+
+        // Disable the event listeners
+        popperInstance.setOptions({
+          modifiers: [{ name: 'eventListeners', enabled: false }],
+        });
+      }
+
+      const showEvents = ['mouseenter', 'focus'];
+      const hideEvents = ['mouseleave', 'blur'];
+
+      showEvents.forEach(event => {
+        button.addEventListener(event, show);
+      });
+
+      hideEvents.forEach(event => {
+        button.addEventListener(event, hide);
+      });
+    </script>
+</main>
+</body>
+</html>

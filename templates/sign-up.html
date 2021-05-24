@@ -1,0 +1,54 @@
+{% load static %}
+<!doctype html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+    <link rel="apple-touch-icon" sizes="180x180"  href="{% static 'img/favicons/apple-touch-icon.png' %}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'img/favicons/favicon-32x32.png' %}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static 'img/favicons/favicon-16x16.png' %}">
+    <link rel="manifest" href="{% static 'img/favicons/site.webmanifest' %}">
+    <link rel="mask-icon" href="{% static 'img/favicons/safari-pinned-tab.svg' %}" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>{% block title %}{% endblock %}</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'css/sign.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body class="text-center">
+
+<main class="form-signin">
+    <a href="{% url 'home' %}" style="text-decoration: none"><img src="{% static 'img/sitemap-solid.svg' %}" width="100" class="mb-4">
+        <span class="logo" style="color: black">M-TREE</span></a>
+  <form method="post">
+      {% csrf_token %}
+
+        {{ form.username }}
+
+        {{ form.email }}
+{#      <input type="email" class="form-control" id="floatingInput" placeholder="Email address">#}
+
+        {{ form.password1 }}
+{#      <input type="password" class="form-control" id="floatingPassword" placeholder="Password">#}
+
+        {{ form.password2 }}
+{#      <input type="password" class="form-control" id="floatingPassword" placeholder="Password">#}
+
+
+    <button type="submit" class="w-100 btn btn-lg btn-primary mt-4">Sign up</button>
+  </form>
+</main>
+
+</body>
+</html>

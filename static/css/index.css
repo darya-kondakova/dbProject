@@ -1,0 +1,153 @@
+aside {
+  /*  float: right; *//*расположение aside*/
+
+    position: fixed;
+    right: 0;
+    background-color: #d4d4d4d4;
+    width: 20%; /*ширина aside*/
+    padding: 2.5%; /*внуторенние отступы*/
+    height: 100vh; /*высота aside (100vh - 100% высоты экрана)*/
+    color: black; /*цвет текста*/
+    border-left: 1px solid black; /*обводка слева (ширина вид-сплошная цвет)*/
+}
+
+aside img {
+    width: 35%;
+    float: left;
+}
+
+main .my-link {
+  color: #000 !important;
+  text-decoration: none
+}
+
+aside .logo {
+    color: #000;
+    font-size: 30pt;
+    float: right;
+    font-weight: bold;
+    position: relative;
+    top: 1px;
+}
+
+aside form {
+    margin-top: 70pt;
+}
+
+aside .margin-top-8 {
+    margin-top: 8pt;
+}
+
+aside .margin-left-8 {
+    margin-left: 8pt;
+}
+
+aside .form-label {
+    margin-top: 8pt;
+    margin-bottom: 2pt;
+}
+
+aside .btn {
+    margin: 12pt 0;
+    background-color: white;
+}
+
+aside .margin-left-22 {
+    margin-left: 23pt;
+}
+
+aside .margin-left-18 {
+    margin-left: 18pt;
+}
+
+main {
+    width: 80%;
+    padding-top: 25px;
+    padding-left: 75px;
+}
+
+main .fixed-button {
+    padding: 0 0;
+    right: 21%;
+    position: fixed;
+    bottom: 15px;
+    border-color: white;
+    border-radius: 100%;
+    background-color: white;
+}
+
+main .pagination {
+    padding: 0 0;
+    left: 75px;
+    position: fixed;
+    bottom: 1px;
+}
+
+main .disabled {
+    color: #6c757d;
+    pointer-events: none;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
+
+aside .navbar-text {
+    position: absolute;
+    bottom: 15px;
+    left: 32%;
+    /*margin-right: -50%;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*width: 6em;*/
+    /*text-align: center;*/
+    /*padding: 0 0;*/
+    /*right: 50%;*/
+    /*bottom: 15px;*/
+}
+
+#tooltip {
+  background: #333;
+        color: white;
+        font-weight: bold;
+        padding: 4px 8px;
+        font-size: 13px;
+        border-radius: 4px;
+  display: none;
+}
+
+#tooltip[data-show] {
+  display: block;
+}
+
+#arrow,
+      #arrow::before {
+        position: absolute;
+        width: 8px;
+        height: 8px;
+        background: inherit;
+      }
+
+      #arrow {
+        visibility: hidden;
+      }
+
+      #arrow::before {
+        visibility: visible;
+        content: '';
+        transform: rotate(45deg);
+      }
+
+      #tooltip[data-popper-placement^='top'] > #arrow {
+        bottom: -4px;
+      }
+
+      #tooltip[data-popper-placement^='bottom'] > #arrow {
+        top: -4px;
+      }
+
+      #tooltip[data-popper-placement^='left'] > #arrow {
+        right: -4px;
+      }
+
+      #tooltip[data-popper-placement^='right'] > #arrow {
+        left: -4px;
+      }

@@ -1,0 +1,70 @@
+body {
+    padding-top: 25px;
+    padding-left: 75px;
+}
+
+body .fixed-button {
+    padding: 0 0;
+    position: fixed;
+    bottom: 15px;
+    background-color: white;
+}
+
+body .right {
+    right: 1%;
+    border-color: white;
+    border-radius: 100%;
+
+}
+
+body .left {
+    left: 75px;
+}
+
+#tooltip {
+  background: #333;
+        color: white;
+        font-weight: bold;
+        padding: 4px 8px;
+        font-size: 13px;
+        border-radius: 4px;
+  display: none;
+}
+
+#tooltip[data-show] {
+  display: block;
+}
+
+#arrow,
+      #arrow::before {
+        position: absolute;
+        width: 8px;
+        height: 8px;
+        background: inherit;
+      }
+
+      #arrow {
+        visibility: hidden;
+      }
+
+      #arrow::before {
+        visibility: visible;
+        content: '';
+        transform: rotate(45deg);
+      }
+
+      #tooltip[data-popper-placement^='top'] > #arrow {
+        bottom: -4px;
+      }
+
+      #tooltip[data-popper-placement^='bottom'] > #arrow {
+        top: -4px;
+      }
+
+      #tooltip[data-popper-placement^='left'] > #arrow {
+        right: -4px;
+      }
+
+      #tooltip[data-popper-placement^='right'] > #arrow {
+        left: -4px;
+      }
