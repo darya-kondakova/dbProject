@@ -94,9 +94,21 @@
             <option value="97">97 Mathematics education</option>
         </select>
 
+        <label for="order" class="form-label">Order by...</label>
+        <select class="form-control ntSaveForms" name="order" id="order">
+            <option value=""></option>
+            <option value="last_name">last name</option>
+            <option value="middle_mane">middle name</option>
+            <option value="first_name">first name</option>
+            <option value="-year_of_degree">year of degree</option>
+            <option value="university_id__university_name">university</option>
+            <option value="country_id__country_name">country</option>
+            <option value="-math_subject_class_id__math_subject_class_name">math subject class</option>
+        </select>
+
         <div class="btn-group">
-            <button type="submit" class="btn btn-outline-success ntSaveFormsSubmit">Search</button>
-            <button type="button" class="btn btn-outline-danger" value="reset" onClick="this.form.reset()">Reset
+            <button type="submit" class="btn btn-outline-success">Search</button>
+            <button type="button" class="btn btn-outline-danger ntSaveFormsSubmit" value="reset" onClick="this.form.reset()">Reset
             </button>
         </div>
         <a type="button" class="btn btn-outline-warning margin-left-22" href="{% url 'add' %}">Add &rarr;</a>

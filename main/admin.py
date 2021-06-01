@@ -1,5 +1,6 @@
 from django.contrib import admin
-from .models import Mathematician, MathSubjectClass, Country, University, StudentAdvisor
+from .models import Mathematician, MathSubjectClass, Country, University, StudentAdvisor, Dissertation, Article, \
+    ArticleMathematician, Magazine, MagazineArticle
 
 
 class MathematicianAdmin(admin.ModelAdmin):
@@ -15,5 +16,10 @@ admin.site.register(MathSubjectClass)
 admin.site.register(Country)
 admin.site.register(University)
 admin.site.register(StudentAdvisor)
+admin.site.register(Dissertation)
+admin.site.register(Article)
+admin.site.register(ArticleMathematician)
+admin.site.register(Magazine)
+admin.site.register(MagazineArticle)
 
 
