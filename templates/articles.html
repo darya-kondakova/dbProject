@@ -1,0 +1,29 @@
+{% extends 'base_view.html' %}
+
+
+{% block title %}Articles{% endblock %}
+
+{% block content %}
+
+    TOP 3:<br>
+
+    {% for t in top %}
+        <p>{{ t.mathematician__last_name }} {{ t.mathematician__first_name }} - {{ t.total }}</p><br>
+    {% endfor %}
+    ------------------------------------------------------------------------------------------------<br>
+
+    Больше двух статей имеют: <br>
+
+    {% for h in having %}
+        <p>{{ h.mathematician__last_name }} {{ h.mathematician__first_name }} - {{ h.total }}</p><br>
+    {% endfor %}
+    -------------------------------------------------------------------------------------------------<br>
+
+    {% for a in art %}
+        <p>{{ a.mathematician__last_name }} {{ a.mathematician__first_name }} - {{ a.total }}</p><br>
+    {% endfor %}
+
+    -------------------------------------------------------------------------------------------------<br>
+
+
+{% endblock %}

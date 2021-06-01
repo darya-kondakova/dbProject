@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+
+{% block title %}Find All{% endblock %}
+
+{% block form %}
+    <script type='text/javascript' src='http://code.jquery.com/jquery-latest.min.js'></script>
+    <form {% url 'find-all' %} method="get">
+
+        <label for="name" class="form-label">Text</label>
+        <input type="text" class="form-control ntSaveForms" name="name" id="name">
+
+        <div class="btn-group">
+            <button type="submit" class="btn btn-outline-success">Search</button>
+            <button type="button" class="btn btn-outline-danger ntSaveFormsSubmit" value="reset" onClick="this.form.reset()">Reset
+            </button>
+        </div>
+    </form>
+
+    <a type="button" class="btn btn-outline-warning" href="{% url 'add-country' %}">Add country</a><br>
+    <a type="button" class="btn btn-outline-warning" href="{% url 'add-university' %}">Add university</a><br>
+    <a type="button" class="btn btn-outline-warning" href="{% url 'add-math_sbj' %}">Add math subject class</a><br>
+    <a type="button" class="btn btn-outline-warning" href="{% url 'add-st_ad' %}">Add student-advisor</a><br>
+
+
+    <script type='text/javascript' src='../static/js/ntsaveforms.js'></script>
+{% endblock %}
+
+{% block content %}
+
+    {% for c in cs %}
+        <div>{{ c.country_name }}
+        <div class="btn-group btn-group-sm" >
+                <a type="button" class="btn btn-outline-success" href="{% url 'update-country' c.id %}">Update</a>
+                <a type="button" class="btn btn-outline-danger" href="{% url 'delete-country' c.id %}">Delete</a>
+        </div></div><br>
+    {% endfor %}
+    {% for u in us %}
+        <div>{{ u.university_name }}
+        <div class="btn-group btn-group-sm" >
+                <a type="button" class="btn btn-outline-success" href="{% url 'update-university' u.id %}">Update</a>
+                <a type="button" class="btn btn-outline-danger" href="{% url 'delete-university' u.id %}">Delete</a>
+        </div></div><br>
+    {% endfor %}
+    {% for m in ms %}
+        <div>{{ m.math_subject_class_name }}
+        <div class="btn-group btn-group-sm" >
+                <a type="button" class="btn btn-outline-success" href="{% url 'update-math_sbj' m.id %}">Update</a>
+                <a type="button" class="btn btn-outline-danger" href="{% url 'delete-math_sbj' m.id %}">Delete</a>
+        </div></div><br>
+    {% endfor %}
+    {% for sa in sas %}
+        <div>{{ sa }}
+        <div class="btn-group btn-group-sm" >
+                <a type="button" class="btn btn-outline-success" href="{% url 'update-st_ad' sa.id %}">Update</a>
+                <a type="button" class="btn btn-outline-danger" href="{% url 'delete-st_ad' sa.id %}">Delete</a>
+        </div></div><br>
+    {% endfor %}
+
+
+{% endblock %}
