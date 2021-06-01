@@ -1,11 +1,11 @@
+from django_cte import With
 from django.shortcuts import render, redirect
 from django.views.generic import ListView, DetailView, UpdateView, DeleteView, CreateView
 
 from .models import Mathematician, Country, University, MathSubjectClass, StudentAdvisor, ArticleMathematician, Article
-from .forms import MathematicianForm, UserSignUpForm, UserSignInForm, CountryForm, MathSubjectClassForm, \
-    UniversityForm, StudentAdvisorForm
+from .forms import MathematicianForm, UserSignUpForm, UserSignInForm, CountryForm, MathSubjectClassForm, UniversityForm, StudentAdvisorForm
 from django.contrib.auth import login, logout
-from django.db.models import Q, Count
+from django.db.models import Q, Count, Sum
 import pandas as pd
 import django.db.utils
 
@@ -118,7 +118,7 @@ class MathDetailView(DetailView):
         context = super(MathDetailView, self).get_context_data(**kwargs)
         context['students'] = Mathematician.objects.get(id=self.kwargs['math_id']).advisor.all()
         context['advisors'] = Mathematician.objects.get(id=self.kwargs['math_id']).student.all()
-        context['articles'] = ArticleMathematician.objects.values('mathematician').\
+        context['articles'] = ArticleMathematician.objects.values('mathematician'). \
             filter(mathematician=self.kwargs['math_id']).annotate(total=Count('article'))
         context['form'] = MathematicianForm()
         return context
@@ -301,10 +301,15 @@ def article(request):
     having = ArticleMathematician.objects.values('mathematician__last_name', 'mathematician__first_name').annotate(
         total=Count('article')).filter(total__gt=2)
 
-    articles = ArticleMathematician.objects.values('mathematician__last_name', 'mathematician__first_name').annotate(total=Count('article'))
+    articles = ArticleMathematician.objects.values('mathematician__last_name', 'mathematician__first_name').annotate(
+        total=Count('article'))
 
     # out = Mathematician.objects.raw('SELECT mathematician_id as id, last_name, first_name, COUNT ("article") as total FROM '
     #                                 'main_mathematician OUTER JOIN main_articleMathematician GROUP BY mathematician_id HAVING total > 2 ')
 
-    context = {'art': articles, 'having': having, 'top': top}
+    cte = With(Article.objects.values('year').annotate(total=Count('article_name')))
+
+    orders = (cte.join(Article, year=cte.col.year).with_cte(cte).annotate(article_total=cte.col.total).order_by('year'))
+
+    context = {'art': articles, 'having': having, 'top': top, 'ord': orders}
     return render(request, 'articles.html', context)
